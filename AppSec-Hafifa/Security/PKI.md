@@ -27,30 +27,30 @@ PKI (Public Key Infrastrcture) הוא פתרון לבעיית החלפת המפ�
 ## **Missions**
 
 - Create a self-signed certificate, then use it in a web server for https
-    - ![תמונות](../../Attachments/attachment_107.png)
-    - ![תמונות](../../Attachments/attachment_108.png)
-    - ![תמונות](../../Attachments/attachment_109.png)
-    - ![תמונות](../../Attachments/attachment_110.png)
+    - ![תמונות](../Attachments/attachment_107.png)
+    - ![תמונות](../Attachments/attachment_108.png)
+    - ![תמונות](../Attachments/attachment_109.png)
+    - ![תמונות](../Attachments/attachment_110.png)
 - Create a CA, then sign a new certificate and use it for https on the web server
     - Linux
-        - ![תמונות](../../Attachments/attachment_111.png)
-        - ![תמונות](../../Attachments/attachment_112.png)
+        - ![תמונות](../Attachments/attachment_111.png)
+        - ![תמונות](../Attachments/attachment_112.png)
     - Windows
-        - ![תמונות](../../Attachments/attachment_113.png)
-        - ![תמונות](../../Attachments/attachment_114.png)
-        - ![תמונות](../../Attachments/attachment_115.png)
-        - ![תמונות](../../Attachments/attachment_116.png)
-        - ![תמונות](../../Attachments/attachment_117.png)
-        - ![תמונות](../../Attachments/attachment_118.png)
-        - ![תמונות](../../Attachments/attachment_119.png)
+        - ![תמונות](../Attachments/attachment_113.png)
+        - ![תמונות](../Attachments/attachment_114.png)
+        - ![תמונות](../Attachments/attachment_115.png)
+        - ![תמונות](../Attachments/attachment_116.png)
+        - ![תמונות](../Attachments/attachment_117.png)
+        - ![תמונות](../Attachments/attachment_118.png)
+        - ![תמונות](../Attachments/attachment_119.png)
     - הפיכת התעודה לCA
-        - ![תמונות](../../Attachments/attachment_120.png)
-        - ![תמונות](../../Attachments/attachment_121.png)
-        - ![תמונות](../../Attachments/attachment_122.png)
-        - ![תמונות](../../Attachments/attachment_123.png)
+        - ![תמונות](../Attachments/attachment_120.png)
+        - ![תמונות](../Attachments/attachment_121.png)
+        - ![תמונות](../Attachments/attachment_122.png)
+        - ![תמונות](../Attachments/attachment_123.png)
 - Make the CA to the trusted certificates on your machine (make sure there is a green lock)
 - Explain how to inspect a certificate (for example, show when is its expiration date)
-    - ![תמונות](../../Attachments/attachment_124.png)
+    - ![תמונות](../Attachments/attachment_124.png)
 
 ## **Certificate Chaining and intermediate CA**
 

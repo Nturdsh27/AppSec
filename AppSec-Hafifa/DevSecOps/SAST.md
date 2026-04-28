@@ -27,7 +27,7 @@ SARIF (Static Analysis Results Interchange Format) הוא פורמט כתיבה 
 
 - השתמש בכלי SAST ונתח את התוצאות
 
-![תמונות](../../Attachments/attachment_103.png)
+![תמונות](../Attachments/attachment_103.png)
 
 שימוש בכלי SAST בשם Bandit , סורק קוד python בצורה מעמיקה.
 

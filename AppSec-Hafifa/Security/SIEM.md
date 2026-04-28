@@ -44,7 +44,7 @@ SIEM (Security Information and Event Management system) הוא כלי שאוסף
 
 Microsoft Sentinal ידוע גם בתור Azure Sentinal הוא פתרון SIEM & SOAR ענני , הוא מספק איתור מתקפות סייבר , חקירה , תגובה ,וצייד פרואקטיבי על כלל הenterprise , הוא מסוגל להתממשק עם שירותי Azure ומשתמש ביכולות AI בשביל לבצע איתור וחקירה בenterprise.
 
-![תמונות](../../Attachments/attachment_179.png)
+![תמונות](../Attachments/attachment_179.png)
 
 ### **Missions**
 
