@@ -246,16 +246,3 @@ Advanced cloud security and architecture services.
    All images referenced in notes are stored in `AppSec-Hafifa/Attachments/`. Do not move or rename this folder.
 
 ---
-
-## Contributing
-
-Contributions, corrections, and additions are welcome.
-
-1. Fork the repository
-2. Create a feature branch: `git checkout -b topic/your-topic-name`
-3. Add or edit Markdown files following the existing style
-4. Open a Pull Request with a clear description of your changes
-
----
-
-> **Note:** This knowledge base is written primarily in Hebrew. Technical terms and tool names are kept in English throughout.
