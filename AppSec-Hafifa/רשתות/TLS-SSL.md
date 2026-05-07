@@ -7,9 +7,11 @@
 הפרוטוקול מממש:
 <div dir="rtl">
 Perfect forward secrecy - החלפת מפתחות ההצפנה באופן תדיר בשביל שהמפתח הפרטי יהיה שונה מעת לעת כך שאם יתגלה יהיה נזק מינמלי.
-
+</div>
+<div dir="rtl">
 Certificate-Based Authentication- משתמש בתעודות דיגטליות כדי לוודא אימות
 </div>
+
 הצפנות ואלגוריתמים מתקדמים - Diffie–Hellman, AES , RSA
 
 אמינות המידע - SHA-256
