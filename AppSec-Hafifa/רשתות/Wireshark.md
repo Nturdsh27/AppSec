@@ -4,7 +4,7 @@
 
 ![תמונות](../Attachments/attachment_23.png)
 
-## <div dir="rtl">**זיהוי השדות בפאקטת HTTP:**</div>
+## <div dir="rtl"><strong>זיהוי השדות בפאקטת HTTP:</strong></div>
 
 Frame:
 
@@ -26,7 +26,7 @@ HTTP Payload :
 
 <div dir="rtl">חשוד</div>
 
-<div dir="rtl">![תמונות](../Attachments/attachment_28.png)![תמונות](../Attachments/attachment_29.png)![תמונות](../Attachments/attachment_30.png)יש ניסיון של brute force למשתמש בשם : bro עם סיסמאות של המספרים בין 1-31 לתוך שרת FTP בניסון להכנס כמשתמש FTP.</div>
+<div dir="rtl"><img src="../Attachments/attachment_28.png" alt="תמונות"><img src="../Attachments/attachment_29.png" alt="תמונות"><img src="../Attachments/attachment_30.png" alt="תמונות">יש ניסיון של brute force למשתמש בשם : bro עם סיסמאות של המספרים בין 1-31 לתוך שרת FTP בניסון להכנס כמשתמש FTP.</div>
 
 EFDIBI
 
@@ -44,14 +44,14 @@ ARP Spoofing
 
 <div dir="rtl">חשוד</div>
 
-<div dir="rtl">![תמונות](../Attachments/attachment_32.png)נעשית שליחה של הודעות לSYN לכל מיני פורט של פרוטוקולים ידועים על מנת למצוא איזה מהם פתוח , כלומר נעשה פה port scan לפורטים ידועים.</div>
+<div dir="rtl"><img src="../Attachments/attachment_32.png" alt="תמונות">נעשית שליחה של הודעות לSYN לכל מיני פורט של פרוטוקולים ידועים על מנת למצוא איזה מהם פתוח , כלומר נעשה פה port scan לפורטים ידועים.</div>
 
 ## **C.pacp :**
 
 <div dir="rtl">לא חשוד</div>
 
-<div dir="rtl">![תמונות](../Attachments/attachment_33.png)ניתן לראות את הטלפון של ניקיטה קומלייב התוקף הרוסי הידוע לשמצא</div>
+<div dir="rtl"><img src="../Attachments/attachment_33.png" alt="תמונות">ניתן לראות את הטלפון של ניקיטה קומלייב התוקף הרוסי הידוע לשמצא</div>
 
-<div dir="rtl">![תמונות](../Attachments/attachment_34.png)מעבר של תעודה דיגיטלית</div>
+<div dir="rtl"><img src="../Attachments/attachment_34.png" alt="תמונות">מעבר של תעודה דיגיטלית</div>
 
 ![תמונות](../Attachments/attachment_35.png)

@@ -37,15 +37,10 @@
 |Cloud|Self-Host|
 |---|---|
 |Pro|Free - Open Source|
-|---|---|
 |Enterprise X|Pro|
-|---|---|
 |Enterprise +|Pro X|
-|---|---|
 ||Enterprise X|
-|---|---|
 ||Enterprise +|
-|---|---|
 
 #### **Repositoies in Artifactory**
 
@@ -71,11 +66,14 @@
 
 `http://<host>:<port>/artifactory/<remote-repository-name>-cache/<artifact-path>`
 
-<div dir="rtl">**כפי שניתן להבין , ניתן לגשת לrepo מקומי בעזרת URL , גישה אל repo מקומי בעזרת הURL שלו זו היא הגישה ה"מרוחקת" , כלומר repo מרוחק הוא בעצם repo מקומי שמונגש בעזרת הURL , כך שאם נרצה להעלות artifacts לrepo מרוחק נעלה אותם פשוט לrepo המקומי וננגיש אותם בעזרת URL.**</div>
+<div dir="rtl"><strong>כפי שניתן להבין , ניתן לגשת לrepo מקומי בעזרת URL , גישה אל repo מקומי בעזרת הURL שלו זו היא הגישה ה"מרוחקת" , כלומר repo מרוחק הוא בעצם repo מקומי שמונגש בעזרת הURL , כך שאם נרצה להעלות artifacts לrepo מרוחק נעלה אותם פשוט לrepo המקומי וננגיש אותם בעזרת URL.</strong></div>
 
 <div dir="rtl">ניתן להתייחס לגישות שקייימות בrepo מרוחק כאל גישות read/write ניתן לעשות רק fetch (ייבוא) , כלומר ניתן להוריד artifacts ולקרוא אותם(גישות read) וגם ניתן לערוך את הartifacts ש נמצאים בcache (גישות write) אך לא ניתן להעלות או למחוק אותם המיקום בו הם מאוחסן (מהcache ניתן למחוק אותם).</div>
 
-<div dir="rtl">* ישנה גרסה חכמה של repo מרוחק שמשתמשת בAPI ומאפשרת פיצ'רים נוספים כמו סטטיסטיקות על הartifacts , סינכרון המאפיינים והשינויים של הartifacts ועוד**.**</div>
+<ul dir="rtl">
+<li>ישנה גרסה חכמה של repo מרוחק שמשתמשת בAPI ומאפשרת פיצ'רים נוספים כמו סטטיסטיקות על הartifacts , סינכרון המאפיינים והשינויים של הartifacts ועוד<strong>.</strong></li>
+</ul>
+
 
 ##### **Virtual**
 
@@ -111,12 +109,15 @@
 
 <div dir="rtl">מה שמעניין את הצוות זה מה שמסומן בתכלת</div>
 
-<div dir="rtl">- **Security** - מאפשר ליצור כללים עבור נושאי אבטחה וחולשות</div>
-    <div dir="rtl">- **CVE** - ניתן ליצור חוקים עבור הפרות CVE , לפי דירוג שלהם , ID , חומרה , ברי תיקון ובעלי פתרון יישם (applicable)</div>
-    <div dir="rtl">- **Malicues Packages** - כללים שיתריעו על הפרה שלהם עבור חבילות זדוניות שנמצאו</div>
-    <div dir="rtl">- **Exposures** - כללים שיתריעו על הפרה שלהם עבור Secrects , Applications , שירותים והגדרות IaC מוטעות.</div>
-    <div dir="rtl">- **Package Version** - כללים שיתריעו על הפרה שלהם עבור חבילות ספציפיות המוגדרות.</div>
-<div dir="rtl">- **License** - מאפשר ליצור כללים עבור נושאי רישוי ותאימות</div>
-    <div dir="rtl">- **Allowed Licenses** - מאפשר רשימה של רישיונות OSS שעלולים להיות קשורים לרכיב כלשהו , אם לרכיב כלשהו יש צורך ברישיון OSS שלא ברשימה אז הכלל יקפוץ (יתריע)</div>
-    <div dir="rtl">- **Banned Licenses** - חוסם רשימה של רישיונות OSS שעלולים לא להיות קשורים לרכיב כלשהו , אם לרכיב כלשהו יש צורך ברשיון OSS שברשימה אז הכלל יקפוץ (יתריע)</div>
-    <div dir="rtl">- **Multiple license permissive approach** - מאפשר שאם ליצור כללים שאם לפחות אחד מהרישיונות ב"תוקף" אז ושאר הרישיונות שרכיב משתמש בו אינם ב"תוקף" אז לא תקפוץ התרעה (לא יתריע אם לפחות אחד מהרשיונות בתוקף)</div>
+<ul dir="rtl">
+<li><strong>Security</strong> - מאפשר ליצור כללים עבור נושאי אבטחה וחולשות</li>
+<li><strong>CVE</strong> - ניתן ליצור חוקים עבור הפרות CVE , לפי דירוג שלהם , ID , חומרה , ברי תיקון ובעלי פתרון יישם (applicable)</li>
+<li><strong>Malicues Packages</strong> - כללים שיתריעו על הפרה שלהם עבור חבילות זדוניות שנמצאו</li>
+<li><strong>Exposures</strong> - כללים שיתריעו על הפרה שלהם עבור Secrects , Applications , שירותים והגדרות IaC מוטעות.</li>
+<li><strong>Package Version</strong> - כללים שיתריעו על הפרה שלהם עבור חבילות ספציפיות המוגדרות.</li>
+<li><strong>License</strong> - מאפשר ליצור כללים עבור נושאי רישוי ותאימות</li>
+<li><strong>Allowed Licenses</strong> - מאפשר רשימה של רישיונות OSS שעלולים להיות קשורים לרכיב כלשהו , אם לרכיב כלשהו יש צורך ברישיון OSS שלא ברשימה אז הכלל יקפוץ (יתריע)</li>
+<li><strong>Banned Licenses</strong> - חוסם רשימה של רישיונות OSS שעלולים לא להיות קשורים לרכיב כלשהו , אם לרכיב כלשהו יש צורך ברשיון OSS שברשימה אז הכלל יקפוץ (יתריע)</li>
+<li><strong>Multiple license permissive approach</strong> - מאפשר שאם ליצור כללים שאם לפחות אחד מהרישיונות ב"תוקף" אז ושאר הרישיונות שרכיב משתמש בו אינם ב"תוקף" אז לא תקפוץ התרעה (לא יתריע אם לפחות אחד מהרשיונות בתוקף)</li>
+</ul>
+

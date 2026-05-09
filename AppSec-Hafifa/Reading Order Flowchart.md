@@ -195,39 +195,60 @@ graph TD
 ### Click any link below to jump to that file:
 
 #### <div dir="rtl">1. רשתות (Networks) - 10 topics</div>
-<div dir="rtl">1. [מודל שבע השכבות](רשתות/מודל%20שבע%20השכבות.md)</div>
-<div dir="rtl">2. [השכבה השנייה הרחבה](רשתות/השכבה%20השנייה%20הרחבה.md)</div>
-<div dir="rtl">3. [השכבה השלישית הרחבה](רשתות/השכבה%20השלישית%20הרחבה.md)</div>
-<div dir="rtl">4. [השכבה הרביעית הרחבה](השכבה%20הרביעית%20הרחבה.md)</div>
-<div dir="rtl">5. [השכבה השישית הרחבה](השכבה%20השישית%20הרחבה.md)</div>
-<div dir="rtl">6. [השכבה השביעית הרחבה](השכבה%20השביעית%20הרחבה.md)</div>
+<ol dir="rtl">
+<li><a href="רשתות/מודל%20שבע%20השכבות.md">מודל שבע השכבות</a></li>
+<li><a href="רשתות/השכבה%20השנייה%20הרחבה.md">השכבה השנייה הרחבה</a></li>
+<li><a href="רשתות/השכבה%20השלישית%20הרחבה.md">השכבה השלישית הרחבה</a></li>
+<li><a href="השכבה%20הרביעית%20הרחבה.md">השכבה הרביעית הרחבה</a></li>
+<li><a href="השכבה%20השישית%20הרחבה.md">השכבה השישית הרחבה</a></li>
+<li><a href="השכבה%20השביעית%20הרחבה.md">השכבה השביעית הרחבה</a></li>
+</ol>
+
 7. [TLS-SSL](TLS-SSL.md)
 8. [Wireshark](Wireshark.md)
 9. [Tunneling](Tunneling.md)
-<div dir="rtl">10. [מאמרים ומקורות מידע - רשתות](מאמרים%20ומקורות%20מידע%20-%20רשתות.md)</div>
+<ol dir="rtl" start="10">
+<li><a href="מאמרים%20ומקורות%20מידע%20-%20רשתות.md">מאמרים ומקורות מידע - רשתות</a></li>
+</ol>
+
 
 #### 2. Linux - 1 topic
-<div dir="rtl">11. [לינוקס בסיסי](Linux/לינוקס%20בסיסי-.md)</div>
+<ol dir="rtl" start="11">
+<li><a href="Linux/לינוקס%20בסיסי-.md">לינוקס בסיסי</a></li>
+</ol>
+
 
 #### <div dir="rtl">3. וירטואליזציה (Virtualization) - 6 topics</div>
 12. [Cloud – High Level](Cloud%20–%20High%20Level.md)
-<div dir="rtl">13. [מה זה on-prem ומה ההבדל בין סביבת ענן לסביבת on-prem](מה%20זה%20on-prem%20ומה%20ההבדל%20בין%20סביבת%20ענן%20לסביבת%20on-prem.md)</div>
-<div dir="rtl">14. [בסיס של ענן](בסיס%20של%20ענן.md)</div>
+<ol dir="rtl" start="13">
+<li><a href="מה%20זה%20on-prem%20ומה%20ההבדל%20בין%20סביבת%20ענן%20לסביבת%20on-prem.md">מה זה on-prem ומה ההבדל בין סביבת ענן לסביבת on-prem</a></li>
+<li><a href="בסיס%20של%20ענן.md">בסיס של ענן</a></li>
+</ol>
+
 15. [Containers](Containers.md)
 16. [Kubernetes](Kubernetes.md)
-<div dir="rtl">17. [מאמרים ומקורות מידע - וירטואליזציה](מאמרים%20ומקורות%20מידע%20-%20וירטואליזציה.md)</div>
+<ol dir="rtl" start="17">
+<li><a href="מאמרים%20ומקורות%20מידע%20-%20וירטואליזציה.md">מאמרים ומקורות מידע - וירטואליזציה</a></li>
+</ol>
+
 
 #### 4. GIT & GITHUB - 3 topics
 18. [Git](GIT%20&%20GITHUB/Git.md)
 19. [GitHub](GIT%20&%20GITHUB/GitHub.md)
-<div dir="rtl">20. [מאמרים ומקורות](Hafifa/AppSec%20-%20Hafifa/GIT%20&%20GITHUB/מאמרים%20ומקורות.md)</div>
+<ol dir="rtl" start="20">
+<li><a href="Hafifa/AppSec%20-%20Hafifa/GIT%20&%20GITHUB/מאמרים%20ומקורות.md">מאמרים ומקורות</a></li>
+</ol>
+
 
 #### 5. CI/CD - 5 topics
 21. [What Is CI-CD And The Differences Between CI And CD](What%20Is%20CI-CD%20And%20The%20Diffrences%20Between%20CI%20And%20CD.md)
 22. [Blue-Green Deployment Technique](Blue-Green%20Deployment%20Technique.md)
 23. [Canary Deployments](Canary%20Deployments.md)
 24. [DevOps Pipeline](DevOps%20Pipeline.md)
-<div dir="rtl">25. [מאמרים ומקורות](Hafifa/AppSec%20-%20Hafifa/CI-CD/מאמרים%20ומקורות.md)</div>
+<ol dir="rtl" start="25">
+<li><a href="Hafifa/AppSec%20-%20Hafifa/CI-CD/מאמרים%20ומקורות.md">מאמרים ומקורות</a></li>
+</ol>
+
 
 #### 6. DevSecOps - 8 topics
 26. [DevSecOps Explained](DevSecOps/DevSecOps%20Explained.md)
@@ -237,7 +258,10 @@ graph TD
 30. [Secret Detection](DevSecOps/Secret%20Detection.md)
 31. [Other Tools](DevSecOps/Other%20Tools.md)
 32. [JFrog](DevSecOps/JFrog.md)
-<div dir="rtl">33. [מאמרים מקורות](DevSecOps/מאמרים%20מקורות-.md)</div>
+<ol dir="rtl" start="33">
+<li><a href="DevSecOps/מאמרים%20מקורות-.md">מאמרים מקורות</a></li>
+</ol>
+
 
 #### 7. Security - 12 topics
 34. [Cryptography](Security/Cryptography.md)
@@ -251,32 +275,47 @@ graph TD
 42. [Endpoint Security](Security/Endpoint%20Security.md)
 43. [SIEM](Security/SIEM.md)
 44. [Concepts](Security/Concepts.md)
-<div dir="rtl">45. [מאמרים מקורות](Security/מאמרים%20מקורות-.md)</div>
+<ol dir="rtl" start="45">
+<li><a href="Security/מאמרים%20מקורות-.md">מאמרים מקורות</a></li>
+</ol>
+
 
 #### <div dir="rtl">8. ספקי ענן (Cloud Providers) - 12 topics</div>
-<div dir="rtl">46. [What is a Cloud Provider](ספקי%20ענן/What%20is%20a%20Cloud%20Provider.md)</div>
-<div dir="rtl">47. [What is the Shared Responsibility Model](ספקי%20ענן/What%20is%20the%20Shared%20Responsibility%20Model.md)</div>
-<div dir="rtl">48. [Threat Modeling](ספקי%20ענן/Threat%20Modeling.md)</div>
-<div dir="rtl">49. [What is SDN](ספקי%20ענן/What%20is%20SDN.md)</div>
-<div dir="rtl">50. [Horizontal vs vertical scaling](ספקי%20ענן/Explain%20the%20difference%20between%20Horizontal%20vs%20vertical%20scaling.md)</div>
-<div dir="rtl">51. [Hub & Spoke network topology](ספקי%20ענן/What%20is%20a%20Hub%20&%20Spoke%20network%20topology.md)</div>
-<div dir="rtl">52. [East-West traffic](ספקי%20ענן/What%20is%20East-West%20traffic.md)</div>
-<div dir="rtl">53. [North-South traffic](ספקי%20ענן/What%20is%20North-South%20traffic.md)</div>
-<div dir="rtl">54. [Egress and Ingress](ספקי%20ענן/Explain%20the%20difference%20between%20Egress%20and%20Ingress.md)</div>
-<div dir="rtl">55. [AWS](ספקי%20ענן/AWS.md)</div>
-<div dir="rtl">56. [GCP](ספקי%20ענן/GCP.md)</div>
-<div dir="rtl">57. [AZURE](ספקי%20ענן/AZURE.md)</div>
+<ol dir="rtl" start="46">
+<li><a href="ספקי%20ענן/What%20is%20a%20Cloud%20Provider.md">What is a Cloud Provider</a></li>
+<li><a href="ספקי%20ענן/What%20is%20the%20Shared%20Responsibility%20Model.md">What is the Shared Responsibility Model</a></li>
+<li><a href="ספקי%20ענן/Threat%20Modeling.md">Threat Modeling</a></li>
+<li><a href="ספקי%20ענן/What%20is%20SDN.md">What is SDN</a></li>
+<li><a href="ספקי%20ענן/Explain%20the%20difference%20between%20Horizontal%20vs%20vertical%20scaling.md">Horizontal vs vertical scaling</a></li>
+<li><a href="ספקי%20ענן/What%20is%20a%20Hub%20&%20Spoke%20network%20topology.md">Hub & Spoke network topology</a></li>
+<li><a href="ספקי%20ענן/What%20is%20East-West%20traffic.md">East-West traffic</a></li>
+<li><a href="ספקי%20ענן/What%20is%20North-South%20traffic.md">North-South traffic</a></li>
+<li><a href="ספקי%20ענן/Explain%20the%20difference%20between%20Egress%20and%20Ingress.md">Egress and Ingress</a></li>
+<li><a href="ספקי%20ענן/AWS.md">AWS</a></li>
+<li><a href="ספקי%20ענן/GCP.md">GCP</a></li>
+<li><a href="ספקי%20ענן/AZURE.md">AZURE</a></li>
+</ol>
+
 
 #### <div dir="rtl">9. ענן (Cloud Security) - 5 topics</div>
-<div dir="rtl">58. [CWPP - Cloud Workload Protection Platform](ענן/CWPP%20-%20Cloud%20Workload%20Protection%20Platform.md)</div>
-<div dir="rtl">59. [DSPM - Data Security Posture Management](ענן/DSPM%20-%20Data%20Security%20Posture%20Management.md)</div>
+<ol dir="rtl" start="58">
+<li><a href="ענן/CWPP%20-%20Cloud%20Workload%20Protection%20Platform.md">CWPP - Cloud Workload Protection Platform</a></li>
+<li><a href="ענן/DSPM%20-%20Data%20Security%20Posture%20Management.md">DSPM - Data Security Posture Management</a></li>
+</ol>
+
 60. [SASE](SASE.md)
 61. [CASB](CASB.md)
-<div dir="rtl">62. [API בענן](ענן/API%20בענן.md)</div>
+<ol dir="rtl" start="62">
+<li><a href="ענן/API%20בענן.md">API בענן</a></li>
+</ol>
+
 
 #### <div dir="rtl">10. נושאים נוספים (Additional Topics) - 2 topics</div>
 63. [Networking](Networking.md)
-<div dir="rtl">64. [סתם מעניין לבדוק](סתם%20מעניין%20לבדוק.md)</div>
+<ol dir="rtl" start="64">
+<li><a href="סתם%20מעניין%20לבדוק.md">סתם מעניין לבדוק</a></li>
+</ol>
+
 
 #### 11. WIZ - 1 topic
 65. [Topics to add in wiz Hafifa](WIZ/Topics%20to%20add%20in%20wiz%20Hafifa.md)
