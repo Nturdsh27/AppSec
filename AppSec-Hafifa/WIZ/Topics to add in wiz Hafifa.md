@@ -1,17 +1,17 @@
 # **Topics to add in wiz Hafifa**
 
-- אינטגרציה מול GitHub
+- <div dir="rtl">אינטגרציה מול GitHub</div>
 - ASPM
-- איך לבדוק רמות סיכון
+- <div dir="rtl">איך לבדוק רמות סיכון</div>
 - container scan
 
-איך לעשות את האינטגרציה עם GitHub Apps כמו הGitHub Actions?
+<div dir="rtl">איך לעשות את האינטגרציה עם GitHub Apps כמו הGitHub Actions?</div>
 
-מושגים :
+<div dir="rtl">מושגים :</div>
 
 GitHub Checks
 
-WIZ צריך לענות על הדרישות של :
+<div dir="rtl">WIZ צריך לענות על הדרישות של :</div>
 
 - SAST
 - SCA
