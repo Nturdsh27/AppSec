@@ -272,9 +272,9 @@ docker run --name [container-name] [image-name]
 <div dir="rtl">הפקודה הבאה פותחת את הקונטיינר במצב deattach כלומר הקונטיינר לא יהיה מחובר אלינו כשהוא יפעל ובעצם יפעל ברקע</div>
 
 - - sudo docker run -it -d --name [container_name] [image_name]
-    <ul dir="rtl">
-    <li>הדגל -d גורם לקונטיינר לפעול ברקע</li>
-    </ul>
+<ul dir="rtl">
+<li>הדגל -d גורם לקונטיינר לפעול ברקע</li>
+</ul>
 
 
 <ol dir="rtl">

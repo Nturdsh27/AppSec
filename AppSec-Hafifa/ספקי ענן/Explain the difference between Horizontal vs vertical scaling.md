@@ -7,24 +7,24 @@
 
 <table dir="rtl">
 <tr>
-  <th><strong>יתרונות</strong></th>
-  <th><strong>חסרונות</strong></th>
+<th><strong>יתרונות</strong></th>
+<th><strong>חסרונות</strong></th>
 </tr>
 <tr>
-  <td><strong>פשטות ניהולית:</strong> קל יותר לנהל שרת אחד חזק</td>
-  <td><strong>תקרה טכנולוגית:</strong> מגבלת חומרה על שדרוגים</td>
+<td><strong>פשטות ניהולית:</strong> קל יותר לנהל שרת אחד חזק</td>
+<td><strong>תקרה טכנולוגית:</strong> מגבלת חומרה על שדרוגים</td>
 </tr>
 <tr>
-  <td><strong>הגדרה פשוטה:</strong> אין צורך לשנות את התוכנה</td>
-  <td><strong>עלות גבוהה:</strong> שרתים חזקים עולים הרבה</td>
+<td><strong>הגדרה פשוטה:</strong> אין צורך לשנות את התוכנה</td>
+<td><strong>עלות גבוהה:</strong> שרתים חזקים עולים הרבה</td>
 </tr>
 <tr>
-  <td><strong>ביצועים גבוהים:</strong> מתאים לעומסים כבדים</td>
-  <td><strong>נקודת כשל בודדת (SPOF):</strong> אם השרת נופל — הכל נופל</td>
+<td><strong>ביצועים גבוהים:</strong> מתאים לעומסים כבדים</td>
+<td><strong>נקודת כשל בודדת (SPOF):</strong> אם השרת נופל — הכל נופל</td>
 </tr>
 <tr>
-  <td><strong>הפחתת תקורה רשתית:</strong> אין צורך בתקשורת בין שרתים</td>
-  <td><strong>זמן השבתה בשדרוג:</strong> ייתכן צורך בהשבתה בזמן שדרוג</td>
+<td><strong>הפחתת תקורה רשתית:</strong> אין צורך בתקשורת בין שרתים</td>
+<td><strong>זמן השבתה בשדרוג:</strong> ייתכן צורך בהשבתה בזמן שדרוג</td>
 </tr>
 </table>
 
@@ -34,24 +34,24 @@
 
 <table dir="rtl">
 <tr>
-  <th><strong>יתרונות</strong></th>
-  <th><strong>חסרונות</strong></th>
+<th><strong>יתרונות</strong></th>
+<th><strong>חסרונות</strong></th>
 </tr>
 <tr>
-  <td><strong>גמישות והתרחבות:</strong> אפשר להוסיף שרתים ככל שהעומס גדל</td>
-  <td><strong>מורכבות ניהולית:</strong> צורך בכלים כמו Load Balancer</td>
+<td><strong>גמישות והתרחבות:</strong> אפשר להוסיף שרתים ככל שהעומס גדל</td>
+<td><strong>מורכבות ניהולית:</strong> צורך בכלים כמו Load Balancer</td>
 </tr>
 <tr>
-  <td><strong>יתירות (Redundancy):</strong> אם שרת אחד נופל, האחרים ממשיכים</td>
-  <td><strong>תקורה רשתית:</strong> תקשורת בין שרתים עשויה להאט ביצועים</td>
+<td><strong>יתירות (Redundancy):</strong> אם שרת אחד נופל, האחרים ממשיכים</td>
+<td><strong>תקורה רשתית:</strong> תקשורת בין שרתים עשויה להאט ביצועים</td>
 </tr>
 <tr>
-  <td><strong>זמן פעילות גבוה:</strong> אפשר להחליף שרתים בלי השבתה</td>
-  <td><strong>סנכרון נתונים:</strong> יש לדאוג לשיתוף וסנכרון נתונים</td>
+<td><strong>זמן פעילות גבוה:</strong> אפשר להחליף שרתים בלי השבתה</td>
+<td><strong>סנכרון נתונים:</strong> יש לדאוג לשיתוף וסנכרון נתונים</td>
 </tr>
 <tr>
-  <td><strong>ניהול עומסים יעיל:</strong> חלוקת עומס טובה בתעבורה גבוהה</td>
-  <td><strong>קונפיגורציה מורכבת:</strong> ייתכן שינוי בקוד לארכיטקטורה מבוזרת</td>
+<td><strong>ניהול עומסים יעיל:</strong> חלוקת עומס טובה בתעבורה גבוהה</td>
+<td><strong>קונפיגורציה מורכבת:</strong> ייתכן שינוי בקוד לארכיטקטורה מבוזרת</td>
 </tr>
 </table>
 

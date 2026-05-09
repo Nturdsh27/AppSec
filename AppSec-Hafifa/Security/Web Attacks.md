@@ -5,99 +5,99 @@
 ### **Top 10 OWASP**
 
 1. Broken Access Control
-    <ol dir="rtl">
-    <li><img src="../Attachments/attachment_127.png" alt="תמונות"></li>
-    <li><img src="../Attachments/attachment_128.png" alt="תמונות"></li>
-    </ol>
+<ol dir="rtl">
+<li><img src="../Attachments/attachment_127.png" alt="תמונות"></li>
+<li><img src="../Attachments/attachment_128.png" alt="תמונות"></li>
+</ol>
 
 2. Cryptographic Failures
-    <ol dir="rtl">
-    <li><img src="../Attachments/attachment_129.png" alt="תמונות"></li>
-    <li><img src="../Attachments/attachment_130.png" alt="תמונות"></li>
-    <li><img src="../Attachments/attachment_131.png" alt="תמונות"></li>
-    <li><img src="../Attachments/attachment_132.png" alt="תמונות"></li>
-    <li><img src="../Attachments/attachment_133.png" alt="תמונות"></li>
-    <li><img src="../Attachments/attachment_134.png" alt="תמונות"></li>
-    <li><img src="../Attachments/attachment_135.png" alt="תמונות"></li>
-    </ol>
+<ol dir="rtl">
+<li><img src="../Attachments/attachment_129.png" alt="תמונות"></li>
+<li><img src="../Attachments/attachment_130.png" alt="תמונות"></li>
+<li><img src="../Attachments/attachment_131.png" alt="תמונות"></li>
+<li><img src="../Attachments/attachment_132.png" alt="תמונות"></li>
+<li><img src="../Attachments/attachment_133.png" alt="תמונות"></li>
+<li><img src="../Attachments/attachment_134.png" alt="תמונות"></li>
+<li><img src="../Attachments/attachment_135.png" alt="תמונות"></li>
+</ol>
 
 3. Injection
     1. Command Injection
-        <ol dir="rtl">
-        <li><img src="../Attachments/attachment_136.png" alt="תמונות"></li>
-        <li><img src="../Attachments/attachment_137.png" alt="תמונות"></li>
-        <li><img src="../Attachments/attachment_138.png" alt="תמונות"></li>
-        <li><img src="../Attachments/attachment_139.png" alt="תמונות"></li>
-        <li><img src="../Attachments/attachment_140.png" alt="תמונות"></li>
-        </ol>
+<ol dir="rtl">
+<li><img src="../Attachments/attachment_136.png" alt="תמונות"></li>
+<li><img src="../Attachments/attachment_137.png" alt="תמונות"></li>
+<li><img src="../Attachments/attachment_138.png" alt="תמונות"></li>
+<li><img src="../Attachments/attachment_139.png" alt="תמונות"></li>
+<li><img src="../Attachments/attachment_140.png" alt="תמונות"></li>
+</ol>
 
 4. Insecure Design
-    <ol dir="rtl">
-    <li><img src="../Attachments/attachment_141.png" alt="תמונות"></li>
-    <li><img src="../Attachments/attachment_142.png" alt="תמונות"></li>
-    <li><img src="../Attachments/attachment_143.png" alt="תמונות"></li>
-    <li><img src="../Attachments/attachment_144.png" alt="תמונות"></li>
-    <li><img src="../Attachments/attachment_145.png" alt="תמונות"></li>
-    <li><img src="../Attachments/attachment_146.png" alt="תמונות"></li>
-    <li><img src="../Attachments/attachment_147.png" alt="תמונות"></li>
-    <li><img src="../Attachments/attachment_148.png" alt="תמונות"></li>
-    </ol>
+<ol dir="rtl">
+<li><img src="../Attachments/attachment_141.png" alt="תמונות"></li>
+<li><img src="../Attachments/attachment_142.png" alt="תמונות"></li>
+<li><img src="../Attachments/attachment_143.png" alt="תמונות"></li>
+<li><img src="../Attachments/attachment_144.png" alt="תמונות"></li>
+<li><img src="../Attachments/attachment_145.png" alt="תמונות"></li>
+<li><img src="../Attachments/attachment_146.png" alt="תמונות"></li>
+<li><img src="../Attachments/attachment_147.png" alt="תמונות"></li>
+<li><img src="../Attachments/attachment_148.png" alt="תמונות"></li>
+</ol>
 
 5. Security Misconfiguration
-    <ol dir="rtl">
-    <li><img src="../Attachments/attachment_149.png" alt="תמונות"></li>
-    <li><img src="../Attachments/attachment_150.png" alt="תמונות"></li>
-    </ol>
+<ol dir="rtl">
+<li><img src="../Attachments/attachment_149.png" alt="תמונות"></li>
+<li><img src="../Attachments/attachment_150.png" alt="תמונות"></li>
+</ol>
 
 6. Vulnerable and Outdated Components
-    <ol dir="rtl">
-    <li><img src="../Attachments/attachment_151.png" alt="תמונות"></li>
-    </ol>
+<ol dir="rtl">
+<li><img src="../Attachments/attachment_151.png" alt="תמונות"></li>
+</ol>
 
     2. [https://www.exploit-db.com/exploits/47887](https://www.exploit-db.com/exploits/47887)
-    <ol dir="rtl" start="3">
-    <li><img src="../Attachments/attachment_152.png" alt="תמונות"></li>
-    <li><img src="../Attachments/attachment_153.png" alt="תמונות"></li>
-    </ol>
+<ol dir="rtl" start="3">
+<li><img src="../Attachments/attachment_152.png" alt="תמונות"></li>
+<li><img src="../Attachments/attachment_153.png" alt="תמונות"></li>
+</ol>
 
 7. Identification and Authentication Failures
-    <ol dir="rtl">
-    <li><img src="../Attachments/attachment_154.png" alt="תמונות"></li>
-    <li><img src="../Attachments/attachment_155.png" alt="תמונות"></li>
-    <li><img src="../Attachments/attachment_156.png" alt="תמונות"></li>
-    <li><img src="../Attachments/attachment_157.png" alt="תמונות"></li>
-    <li><img src="../Attachments/attachment_158.png" alt="תמונות"></li>
-    <li><img src="../Attachments/attachment_159.png" alt="תמונות"></li>
-    </ol>
+<ol dir="rtl">
+<li><img src="../Attachments/attachment_154.png" alt="תמונות"></li>
+<li><img src="../Attachments/attachment_155.png" alt="תמונות"></li>
+<li><img src="../Attachments/attachment_156.png" alt="תמונות"></li>
+<li><img src="../Attachments/attachment_157.png" alt="תמונות"></li>
+<li><img src="../Attachments/attachment_158.png" alt="תמונות"></li>
+<li><img src="../Attachments/attachment_159.png" alt="תמונות"></li>
+</ol>
 
 8. Software and Data Integrity Failures
-    <ol dir="rtl">
-    <li><img src="../Attachments/attachment_160.png" alt="תמונות"></li>
-    <li><img src="../Attachments/attachment_161.png" alt="תמונות"></li>
-    <li><img src="../Attachments/attachment_162.png" alt="תמונות"></li>
-    <li><img src="../Attachments/attachment_163.png" alt="תמונות"></li>
-    <li><img src="../Attachments/attachment_164.png" alt="תמונות"></li>
-    <li><img src="../Attachments/attachment_165.png" alt="תמונות"></li>
-    <li><img src="../Attachments/attachment_166.png" alt="תמונות"></li>
-    </ol>
+<ol dir="rtl">
+<li><img src="../Attachments/attachment_160.png" alt="תמונות"></li>
+<li><img src="../Attachments/attachment_161.png" alt="תמונות"></li>
+<li><img src="../Attachments/attachment_162.png" alt="תמונות"></li>
+<li><img src="../Attachments/attachment_163.png" alt="תמונות"></li>
+<li><img src="../Attachments/attachment_164.png" alt="תמונות"></li>
+<li><img src="../Attachments/attachment_165.png" alt="תמונות"></li>
+<li><img src="../Attachments/attachment_166.png" alt="תמונות"></li>
+</ol>
 
 9. Security Logging & Monitoring Failures
-    <ol dir="rtl">
-    <li><img src="../Attachments/attachment_167.png" alt="תמונות"></li>
-    </ol>
+<ol dir="rtl">
+<li><img src="../Attachments/attachment_167.png" alt="תמונות"></li>
+</ol>
 
 10. Server-Side Request Forgery (SSRF)
-    <ol dir="rtl">
-    <li><img src="../Attachments/attachment_168.png" alt="תמונות"></li>
-    <li><img src="../Attachments/attachment_169.png" alt="תמונות"></li>
-    <li><img src="../Attachments/attachment_170.png" alt="תמונות"></li>
-    <li><img src="../Attachments/attachment_171.png" alt="תמונות"></li>
-    <li><img src="../Attachments/attachment_172.png" alt="תמונות"></li>
-    <li><img src="../Attachments/attachment_173.png" alt="תמונות"></li>
-    <li><img src="../Attachments/attachment_174.png" alt="תמונות"></li>
-    <li><img src="../Attachments/attachment_175.png" alt="תמונות"></li>
-    <li><img src="../Attachments/attachment_176.png" alt="תמונות"></li>
-    </ol>
+<ol dir="rtl">
+<li><img src="../Attachments/attachment_168.png" alt="תמונות"></li>
+<li><img src="../Attachments/attachment_169.png" alt="תמונות"></li>
+<li><img src="../Attachments/attachment_170.png" alt="תמונות"></li>
+<li><img src="../Attachments/attachment_171.png" alt="תמונות"></li>
+<li><img src="../Attachments/attachment_172.png" alt="תמונות"></li>
+<li><img src="../Attachments/attachment_173.png" alt="תמונות"></li>
+<li><img src="../Attachments/attachment_174.png" alt="תמונות"></li>
+<li><img src="../Attachments/attachment_175.png" alt="תמונות"></li>
+<li><img src="../Attachments/attachment_176.png" alt="תמונות"></li>
+</ol>
 
 
 <div dir="rtl">הסברים מלאים + תרגול נמצאים באתר של TryHackMe בחינם באחת מהכתובות האלו:</div>
