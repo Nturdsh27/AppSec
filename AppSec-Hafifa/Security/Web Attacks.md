@@ -51,11 +51,9 @@
 
 6. Vulnerable and Outdated Components
 <ol dir="rtl">
-<li><img src="../Attachments/attachment_151.png" alt="תמונות"></li>
-</ol>
-
-    2. [https://www.exploit-db.com/exploits/47887](https://www.exploit-db.com/exploits/47887)
-<ol dir="rtl" start="3">
+<li><img src="../Attachments/attachment_151.png" alt="תמונות">
+<br><code>[https://www.exploit-db.com/exploits/47887](https://www.exploit-db.com/exploits/47887)</code>
+</li>
 <li><img src="../Attachments/attachment_152.png" alt="תמונות"></li>
 <li><img src="../Attachments/attachment_153.png" alt="תמונות"></li>
 </ol>

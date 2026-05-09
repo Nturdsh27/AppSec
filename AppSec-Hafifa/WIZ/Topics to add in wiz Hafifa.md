@@ -2,14 +2,10 @@
 
 <ul dir="rtl">
 <li>אינטגרציה מול GitHub</li>
-</ul>
-
-- ASPM
-<ul dir="rtl">
+<li>ASPM</li>
 <li>איך לבדוק רמות סיכון</li>
+<li>container scan</li>
 </ul>
-
-- container scan
 
 <div dir="rtl">איך לעשות את האינטגרציה עם GitHub Apps כמו הGitHub Actions?</div>
 

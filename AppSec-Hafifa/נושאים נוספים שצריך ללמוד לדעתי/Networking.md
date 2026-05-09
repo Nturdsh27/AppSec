@@ -9,11 +9,8 @@
 <ul dir="rtl">
 <li>לכתוב את הקוד של nslookup</li>
 <li>הכלי dive עבור docker</li>
-</ul>
-
-- Container Runtime & Container Engine
-- Threat Modeling
-<ul dir="rtl">
+<li>Container Runtime & Container Engine</li>
+<li>Threat Modeling</li>
 <li>API בענן</li>
 </ul>
 

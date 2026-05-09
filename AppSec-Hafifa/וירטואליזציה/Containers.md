@@ -233,36 +233,33 @@ docker run --name [container-name] [image-name]
 ## <div dir="rtl"><strong>שימוש בפקודות DOCKER בCLI:</strong></div>
 
 <ol dir="rtl">
-<li>כיצד ניתן לראות את כל הimageים של docker שקיימים על המכונה</li>
-</ol>
-
-    - sudo docker images
-<ol dir="rtl" start="2">
-<li>כיצד ניתן לראות את כל הcontainerים של docker שקיימים על המכונה</li>
-</ol>
-
-    - sudo docker container ls -a
-<ol dir="rtl" start="3">
-<li>כיצד ניתן לראות את כל הcontainerים של docker שפועלים כרגע על המכונה</li>
-</ol>
-
-    - sudo docker container ls -a
-<ol dir="rtl" start="4">
+<li>כיצד ניתן לראות את כל הimageים של docker שקיימים על המכונה
+<br><code>sudo docker images</code>
+</li>
+<li>כיצד ניתן לראות את כל הcontainerים של docker שקיימים על המכונה
+<br><code>sudo docker container ls -a</code>
+</li>
+<li>כיצד ניתן לראות את כל הcontainerים של docker שפועלים כרגע על המכונה
+<br><code>sudo docker container ls -a</code>
+</li>
 <li>כיצד נכנס לקונטיינר שפועל בעזרת bash</li>
 </ol>
 
 
 <div dir="rtl">ניצור קונטיינר שיהיה אחד שנוכל באמת להכנס אליו (לא חובה אם כבר קיים קונטיינר שפועל)</div>
 
-- - sudo docker run -it --name [container_name] [image_name]
+<code>sudo docker run -it --name [container_name] [image_name]</code>
+
 
 <div dir="rtl">נתחיל את הקונטיינר, כלומר נפעיל אותו</div>
 
-- - sudo docker start [container_name]
+<code>sudo docker start [container_name]</code>
+
 
 <div dir="rtl">נפעיל shell של bash על הקונטיינר ונציין שאנחנו רוצים שהוא אינטרקטיבי וישנסה לגרום לshell להראות רגיל תוך שימוש בדרייברים של תצוגה ומקלדת בשביל לכתוב (זה מה ש-it עושים , i מציין intercative shell כלומר שהshell ישאר פתוח ולא יסגר לאחר פקודה אחת , הt מציין Allocate a pseudo-TTY , שזה אומר שהוא ינסה לדמות shell)</div>
 
-- - sudo docker exec -it [conatiner_name] bash
+<code>sudo docker exec -it [conatiner_name] bash</code>
+
 
 <ol dir="rtl">
 <li>איך ניתן להפעיל container בלי להכנס אוטומטית</li>
@@ -271,17 +268,18 @@ docker run --name [container-name] [image-name]
 
 <div dir="rtl">הפקודה הבאה פותחת את הקונטיינר במצב deattach כלומר הקונטיינר לא יהיה מחובר אלינו כשהוא יפעל ובעצם יפעל ברקע</div>
 
-- - sudo docker run -it -d --name [container_name] [image_name]
+<code>sudo docker run -it -d --name [container_name] [image_name]</code>
+
 <ul dir="rtl">
 <li>הדגל -d גורם לקונטיינר לפעול ברקע</li>
 </ul>
 
 
 <ol dir="rtl">
-<li>נוכל להכנס לקונטיינר עצמו שפועל מבלי הצורך לפתוח עליו shell</li>
+<li>נוכל להכנס לקונטיינר עצמו שפועל מבלי הצורך לפתוח עליו shell
+<br><code>sudo docker attach ubuntu</code>
+</li>
 </ol>
-
-    - sudo docker attach ubuntu
 
 <div dir="rtl">כדי לצאת המקונטיינר בלי לעצור אותו (exit עוצר את הקונטיינר ונצטרך להפעיל אותו מחדש)</div>
 
@@ -291,11 +289,11 @@ docker run --name [container-name] [image-name]
 
 
 <ol dir="rtl">
-<li>עצירה ומחיקה של כל הcontainerים</li>
+<li>עצירה ומחיקה של כל הcontainerים
+<br><code>docker stop $(docker ps -a -q)</code>
+<br><code>docker rm $(docker ps -a -q)</code>
+</li>
 </ol>
-
-    - docker stop $(docker ps -a -q)
-    - docker rm $(docker ps -a -q)
 
 <div dir="rtl">משימה:</div>
 
