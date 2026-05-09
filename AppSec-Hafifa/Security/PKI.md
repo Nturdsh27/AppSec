@@ -43,7 +43,7 @@
         - ![תמונות](../Attachments/attachment_117.png)
         - ![תמונות](../Attachments/attachment_118.png)
         - ![תמונות](../Attachments/attachment_119.png)
-    - <div dir="rtl">הפיכת התעודה לCA</div>
+    - Turnning a Certificate into a CA
         - ![תמונות](../Attachments/attachment_120.png)
         - ![תמונות](../Attachments/attachment_121.png)
         - ![תמונות](../Attachments/attachment_122.png)
