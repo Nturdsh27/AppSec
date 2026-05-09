@@ -34,47 +34,47 @@
 
 ### **Setup and Config Commands**
 
-- <div dir="rtl">git -v - מציג את גרסאת הgit הנוכחית.</div>
-- <div dir="rtl">git help - מאפשר לקבל עזרה על פקודות או תקלות.</div>
-- <div dir="rtl">git config - מאפשר להגדר קונפיגורציות בסיסיות כמו שם או מייל</div>
+<div dir="rtl">- git -v - מציג את גרסאת הgit הנוכחית.</div>
+<div dir="rtl">- git help - מאפשר לקבל עזרה על פקודות או תקלות.</div>
+<div dir="rtl">- git config - מאפשר להגדר קונפיגורציות בסיסיות כמו שם או מייל</div>
 
 ### **Getting and Creating Projects Commands**
 
-- <div dir="rtl">git init - יצירת repo מקומית</div>
-- <div dir="rtl">git clone - משכפל את הrepo לתקייה חדשה , בנוסף מאפשר ליצור ענפי מעקב עבור כל ענף מרוחק ויוצר ומחליף אל הענף הפעיל מהrepo המשוכפל.</div>
+<div dir="rtl">- git init - יצירת repo מקומית</div>
+<div dir="rtl">- git clone - משכפל את הrepo לתקייה חדשה , בנוסף מאפשר ליצור ענפי מעקב עבור כל ענף מרוחק ויוצר ומחליף אל הענף הפעיל מהrepo המשוכפל.</div>
 
 ### **Basic Snapshotting Commands**
 
-- <div dir="rtl">git add - הוספת רשימה של מהwork directory לאזור stagging , ניתן להשתמש בדגל --all כדי להעלות את כל הקבצים מהתקייה הנוכחית אל אזור הstagging.</div>
-- <div dir="rtl">git status - לראות אם היו שינויים מאז הcommit האחרון , מראה את כל השינויים שנעשה ואת השינויים שנוספו.</div>
-- <div dir="rtl">git diff - מראה את השינויים שנעשו מאז הcommit האחרון , בין commitים , בין ענפים , בין ענף לcommit וכו'.</div>
-- <div dir="rtl">git commit - רישום שינויים בrepo.</div>
-- <div dir="rtl">git reset [HEAD] - מאפס את הHEAD הנוכחי לHEAD המצויין</div>
-- <div dir="rtl">git rm - מסיר קובץ מהענף ומקובץ הindex.</div>
+<div dir="rtl">- git add - הוספת רשימה של מהwork directory לאזור stagging , ניתן להשתמש בדגל --all כדי להעלות את כל הקבצים מהתקייה הנוכחית אל אזור הstagging.</div>
+<div dir="rtl">- git status - לראות אם היו שינויים מאז הcommit האחרון , מראה את כל השינויים שנעשה ואת השינויים שנוספו.</div>
+<div dir="rtl">- git diff - מראה את השינויים שנעשו מאז הcommit האחרון , בין commitים , בין ענפים , בין ענף לcommit וכו'.</div>
+<div dir="rtl">- git commit - רישום שינויים בrepo.</div>
+<div dir="rtl">- git reset [HEAD] - מאפס את הHEAD הנוכחי לHEAD המצויין</div>
+<div dir="rtl">- git rm - מסיר קובץ מהענף ומקובץ הindex.</div>
 
 ### **Branching and Merging Commads**
 
-- <div dir="rtl">git branch - מאפשר ליצור ענף חדש , להציג רשימה של הענפים הקיימים ולמחוק ענפים.</div>
-- <div dir="rtl">git checkout - מאפשר להחליף בין ענפים או להחליף בין קבצים עליהם נעבוד בעץ , הדגל -b מאפשר ליצור ענף חדש ולהחליף אליו, -B יוצר ענף חדש אם הענף לא קיים כבר , אם קיים מחליף אליו.</div>
-- <div dir="rtl">git switch - מחליף בין ענפים</div>
-- <div dir="rtl">git merge - ממזג בין 2 ומעלה הסטוריות פיתוח יחד , מיזוג בין ענפים או בין commitים.</div>
-- <div dir="rtl">git log - לבדוק את היסטורית השינויים (הcommitים)</div>
-- <div dir="rtl">git stash - מאפשר לשמור את השינויים שבוצעו בעותק משלהם בלי לעשות להם commit ובכך לעבוד על משהו אחר ולחזור אליהם אחר כך אם במידת הצורך (שימושי במידה ועובדים על קוד ואז צריכים לעבוד על קוד אחר באמצע הדרך אבל הקוד שעבדנו עליו עדיין לא מוכן לcommit , כך נעשה לו stash ונחזור אליו אחר כך)</div>
-- <div dir="rtl">git tag - מאפשר ליצור , להציג רשימה , למחוק ולאמת אובייקט tag שנחתם על ידי GPG</div>
+<div dir="rtl">- git branch - מאפשר ליצור ענף חדש , להציג רשימה של הענפים הקיימים ולמחוק ענפים.</div>
+<div dir="rtl">- git checkout - מאפשר להחליף בין ענפים או להחליף בין קבצים עליהם נעבוד בעץ , הדגל -b מאפשר ליצור ענף חדש ולהחליף אליו, -B יוצר ענף חדש אם הענף לא קיים כבר , אם קיים מחליף אליו.</div>
+<div dir="rtl">- git switch - מחליף בין ענפים</div>
+<div dir="rtl">- git merge - ממזג בין 2 ומעלה הסטוריות פיתוח יחד , מיזוג בין ענפים או בין commitים.</div>
+<div dir="rtl">- git log - לבדוק את היסטורית השינויים (הcommitים)</div>
+<div dir="rtl">- git stash - מאפשר לשמור את השינויים שבוצעו בעותק משלהם בלי לעשות להם commit ובכך לעבוד על משהו אחר ולחזור אליהם אחר כך אם במידת הצורך (שימושי במידה ועובדים על קוד ואז צריכים לעבוד על קוד אחר באמצע הדרך אבל הקוד שעבדנו עליו עדיין לא מוכן לcommit , כך נעשה לו stash ונחזור אליו אחר כך)</div>
+<div dir="rtl">- git tag - מאפשר ליצור , להציג רשימה , למחוק ולאמת אובייקט tag שנחתם על ידי GPG</div>
 
 ### **Sharing and Updating Projects Commads**
 
-- <div dir="rtl">git fetch - מאפשר להוריד אובייקטים וrefs מrepo אחר/מרוחק יחד עם כל האובייקטים שהם צריכים בשביל שנוצרו בעבר.</div>
-- <div dir="rtl">git pull - מאפשר להוריד ולמזג אובייקטים מrepo אחר/מרוחק אל הrepo המקומי\אחר.</div>
-- <div dir="rtl">git push - מאפשר לעדכן refs אחרים/מרוחקים עם האובייקטים שנבחר לשייך את הפעולה אליהם.</div>
-- <div dir="rtl">git remote - מאפשר ליצור , למחוק ולהראות חיבורים עם repoים אחרים.</div>
+<div dir="rtl">- git fetch - מאפשר להוריד אובייקטים וrefs מrepo אחר/מרוחק יחד עם כל האובייקטים שהם צריכים בשביל שנוצרו בעבר.</div>
+<div dir="rtl">- git pull - מאפשר להוריד ולמזג אובייקטים מrepo אחר/מרוחק אל הrepo המקומי\אחר.</div>
+<div dir="rtl">- git push - מאפשר לעדכן refs אחרים/מרוחקים עם האובייקטים שנבחר לשייך את הפעולה אליהם.</div>
+<div dir="rtl">- git remote - מאפשר ליצור , למחוק ולהראות חיבורים עם repoים אחרים.</div>
 
 ### **Patching Commands**
 
-- <div dir="rtl">git cherry-pick - מאפשר לבחור commitים ולהכיל את השינויים שלהם תוך יצירת commit חדש לכל אחד מהם.</div>
-- <div dir="rtl">git rebase - מאפשר שילוב עבודה בין ענפים , לוקח מבנה/מספר של commitים ומעתיק אותם למקום אחר.</div>
-- <div dir="rtl">git revert - משמש כמו undo , לקוח מספר commitים (1 ומעלה) ומחזיר לאחור את השינויים שנעשו על ידי commitים אחרים עליהם ,כלומר מחזיר את המצב כפי שהיה בcommit(ים) שנבחר ומוסיף אותו כcommit חדש , **בפשטות - מבטל שינויים שנעשו.**</div>
+<div dir="rtl">- git cherry-pick - מאפשר לבחור commitים ולהכיל את השינויים שלהם תוך יצירת commit חדש לכל אחד מהם.</div>
+<div dir="rtl">- git rebase - מאפשר שילוב עבודה בין ענפים , לוקח מבנה/מספר של commitים ומעתיק אותם למקום אחר.</div>
+<div dir="rtl">- git revert - משמש כמו undo , לקוח מספר commitים (1 ומעלה) ומחזיר לאחור את השינויים שנעשו על ידי commitים אחרים עליהם ,כלומר מחזיר את המצב כפי שהיה בcommit(ים) שנבחר ומוסיף אותו כcommit חדש , **בפשטות - מבטל שינויים שנעשו.**</div>
 
-* <div dir="rtl">refs (שם קולקטיבי עבור ענפים ואו tagים)</div>
+<div dir="rtl">* refs (שם קולקטיבי עבור ענפים ואו tagים)</div>
 
 <div dir="rtl">**Git Tuotorial**![תמונות](../Attachments/attachment_74.png)![תמונות](../Attachments/attachment_75.png)![תמונות](../Attachments/attachment_76.png)</div>

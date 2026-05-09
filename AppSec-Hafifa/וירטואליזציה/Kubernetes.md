@@ -70,18 +70,18 @@
 
 #### **Deploymet Variations of Control Plane:**
 
-- <div dir="rtl">השימוש הרגיל בו הרכיבים רצים ישירות על המכונות הייעודיות או הVMים, לעיתים קרובות מנוהל כשירות systemd.</div>
-- <div dir="rtl">ניתן להשתמש בהם על גבי Podים סטטיים שמנוהלים על ידי kubelet על גבי Nodeים ספציפיים.</div>
-- <div dir="rtl">להריץ את כל הControl Plane על גבי Podים בתוך האשכול עצמו.</div>
-- <div dir="rtl">שימוש אפשרי של ספקי ענן - הפשטה של הControl Plane וניהול שלו כחלק מהשירות שלהם.</div>
+<div dir="rtl">- השימוש הרגיל בו הרכיבים רצים ישירות על המכונות הייעודיות או הVMים, לעיתים קרובות מנוהל כשירות systemd.</div>
+<div dir="rtl">- ניתן להשתמש בהם על גבי Podים סטטיים שמנוהלים על ידי kubelet על גבי Nodeים ספציפיים.</div>
+<div dir="rtl">- להריץ את כל הControl Plane על גבי Podים בתוך האשכול עצמו.</div>
+<div dir="rtl">- שימוש אפשרי של ספקי ענן - הפשטה של הControl Plane וניהול שלו כחלק מהשירות שלהם.</div>
 
 #### <div dir="rtl">**מיקום הWorkloadים**</div>
 
 <div dir="rtl">ניתן למקם את הWorkloadים בצורה שונה כתלות בגודל של האשכול, דרישות הביצוע שלו ופוליסות הפעולות שלו.</div>
 
-- <div dir="rtl">באשכולי פיתוח או אשכול שהם קטנים , ניתן להריץ את הControl Plane והWorkload על אותם הNodeים</div>
-- <div dir="rtl">באשכול ייצור גדולים לעיתים יוקצו Nodeים ייעודיים עבור הControl Plane בצורה מופרדת מהWorkloadים.</div>
-- <div dir="rtl">ארגונים מסוים מעדיפים להריץ תוספים קריטיים או כלים המשמשים לפיקוח על גבי הNodeים של הControl Plane.</div>
+<div dir="rtl">- באשכולי פיתוח או אשכול שהם קטנים , ניתן להריץ את הControl Plane והWorkload על אותם הNodeים</div>
+<div dir="rtl">- באשכול ייצור גדולים לעיתים יוקצו Nodeים ייעודיים עבור הControl Plane בצורה מופרדת מהWorkloadים.</div>
+<div dir="rtl">- ארגונים מסוים מעדיפים להריץ תוספים קריטיים או כלים המשמשים לפיקוח על גבי הNodeים של הControl Plane.</div>
 
 ## **Pod**
 

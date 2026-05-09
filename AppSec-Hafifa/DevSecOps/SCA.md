@@ -23,7 +23,7 @@
 
 ## **Mission - Usage of SCA Tools**
 
-- <div dir="rtl">השתמש בכלי SCA ונתח את התוצאות</div>
+<div dir="rtl">- השתמש בכלי SCA ונתח את התוצאות</div>
 
 **Snyk**
 

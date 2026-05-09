@@ -1,8 +1,8 @@
 # **Topics to add in wiz Hafifa**
 
-- <div dir="rtl">אינטגרציה מול GitHub</div>
+<div dir="rtl">- אינטגרציה מול GitHub</div>
 - ASPM
-- <div dir="rtl">איך לבדוק רמות סיכון</div>
+<div dir="rtl">- איך לבדוק רמות סיכון</div>
 - container scan
 
 <div dir="rtl">איך לעשות את האינטגרציה עם GitHub Apps כמו הGitHub Actions?</div>

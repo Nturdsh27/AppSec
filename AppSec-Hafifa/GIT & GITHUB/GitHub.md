@@ -24,9 +24,9 @@
 
 #### **Types Of GitHub Repositories**
 
-- <div dir="rtl">public - זהו repo ציבורי , הוא נגיש לכולם דרך האינטרנט.</div>
-- <div dir="rtl">private - זהו repo פרטי, הוא נגיש רק ליוצר שלו , למי שהיוצר מחליט לשתף איתו אותו ואם זה repo ארגוני אז גם למשתמשים ארגוניים מסויימים.</div>
-- <div dir="rtl">internal - זהו repo שנגיש לכל משתמשי הenterprise , בארגונים ששייכים לחשבון enterprise סוג זה של repo מוגדר כברירת מחדל כאשר נוצר repo חדש.</div>
+<div dir="rtl">- public - זהו repo ציבורי , הוא נגיש לכולם דרך האינטרנט.</div>
+<div dir="rtl">- private - זהו repo פרטי, הוא נגיש רק ליוצר שלו , למי שהיוצר מחליט לשתף איתו אותו ואם זה repo ארגוני אז גם למשתמשים ארגוניים מסויימים.</div>
+<div dir="rtl">- internal - זהו repo שנגיש לכל משתמשי הenterprise , בארגונים ששייכים לחשבון enterprise סוג זה של repo מוגדר כברירת מחדל כאשר נוצר repo חדש.</div>
 
 #### **Branch Protection Rules**
 
@@ -84,24 +84,24 @@
 
 <div dir="rtl">נכון לנקודת זמן זו (2025) ישנם 8 "סוגים" שונים של Roles שקיימים בארגון , להלן :</div>
 
-- <div dir="rtl">All-repository read – מאפשר הרשאות קריאה בכל הארגון ובכל הrepoים</div>
-- <div dir="rtl">All-repository write - מאפשר הרשאות כתיבה בכל הארגון ובכל הrepoים</div>
-- <div dir="rtl">All-repository triage - מאפשר הרשאות עבור סקירה שלissues ובקשות pull בכל הארגון ובכל הrepoים (בלי הרשאות כתיבה)</div>
-- <div dir="rtl">All-repository maintain - מאפשר הרשאות כלליות לניהול repository בכל הארגון ובכל הrepoים בלי ההרשאות המאפשרות פעולות הרסניות או מסוכנות</div>
-- <div dir="rtl">All-repository admin - מאפשר הרשאות מלאות בכל הארגון ובכל הrepoים כולל הרשאות אבטחתיות</div>
-- <div dir="rtl">CI/CD admin - מאפשר הרשאות גישה ושימוש באוטומציות של GitHub בכל הארגון ובכל הrepoים</div>
-- <div dir="rtl">Security manager - מאפשר הרשאות בתחומים אבטחתיים בכל הארגון ובכל הrepoים</div>
-- <div dir="rtl">Custom – מאפשר ליצור Role בעל הרשאות מותאמות אישית לצרכים ולשימושים שלנו , ההרשאות בו יהיו תקפות לכלל הראגון והrepoים</div>
+<div dir="rtl">- All-repository read – מאפשר הרשאות קריאה בכל הארגון ובכל הrepoים</div>
+<div dir="rtl">- All-repository write - מאפשר הרשאות כתיבה בכל הארגון ובכל הrepoים</div>
+<div dir="rtl">- All-repository triage - מאפשר הרשאות עבור סקירה שלissues ובקשות pull בכל הארגון ובכל הrepoים (בלי הרשאות כתיבה)</div>
+<div dir="rtl">- All-repository maintain - מאפשר הרשאות כלליות לניהול repository בכל הארגון ובכל הrepoים בלי ההרשאות המאפשרות פעולות הרסניות או מסוכנות</div>
+<div dir="rtl">- All-repository admin - מאפשר הרשאות מלאות בכל הארגון ובכל הrepoים כולל הרשאות אבטחתיות</div>
+<div dir="rtl">- CI/CD admin - מאפשר הרשאות גישה ושימוש באוטומציות של GitHub בכל הארגון ובכל הrepoים</div>
+<div dir="rtl">- Security manager - מאפשר הרשאות בתחומים אבטחתיים בכל הארגון ובכל הrepoים</div>
+<div dir="rtl">- Custom – מאפשר ליצור Role בעל הרשאות מותאמות אישית לצרכים ולשימושים שלנו , ההרשאות בו יהיו תקפות לכלל הראגון והrepoים</div>
 
 ### **Repository Roles**
 
 <div dir="rtl">הRoles Repository מאפשרים למשתמש לקבל הרשאות בכל הrepo , כלומר ההרשאות האלו יהיו תקפות בכל repo הספציפי בו הrole צויין , כך שההרשאות שיש לו יהיו קיימים רק ברמת הrepo , אלה אם כן יש לו role זהה או role בעל הרשאות חופפות ברמה הארגונית.</div>
 
-- <div dir="rtl">Read – מאפשר הרשאות קריאה בכל הrepo</div>
-- <div dir="rtl">Triage - מאפשר הרשאות עבור סקירה שלissues ובקשות pull בכל הrepo (בלי הרשאות כתיבה)</div>
-- <div dir="rtl">Write - מאפשר הרשאות כתיבה בכל הrepo</div>
-- <div dir="rtl">Maintain - מאפשר הרשאות כלליות לניהול הrepository בכל הrepo בלי ההרשאות המאפשרות פעולות הרסניות או מסוכנות</div>
-- <div dir="rtl">Admin - מאפשר הרשאות מלאות בכל הrepo כולל הרשאות אבטחתיות</div>
+<div dir="rtl">- Read – מאפשר הרשאות קריאה בכל הrepo</div>
+<div dir="rtl">- Triage - מאפשר הרשאות עבור סקירה שלissues ובקשות pull בכל הrepo (בלי הרשאות כתיבה)</div>
+<div dir="rtl">- Write - מאפשר הרשאות כתיבה בכל הrepo</div>
+<div dir="rtl">- Maintain - מאפשר הרשאות כלליות לניהול הrepository בכל הrepo בלי ההרשאות המאפשרות פעולות הרסניות או מסוכנות</div>
+<div dir="rtl">- Admin - מאפשר הרשאות מלאות בכל הrepo כולל הרשאות אבטחתיות</div>
 
 ## <div dir="rtl">**משימות בGitHub**</div>
 
@@ -125,25 +125,25 @@
 
 <div dir="rtl">לפני זה נרצה להוסיף עוד כמה שלבים פשוטים עבור נוחות העבודה</div>
 
-1. <div dir="rtl">ניצור תקייה שבה נוכל לעשות , בחרתי לקרוא לה git_actons , נכנס אליה וניצור סתם קובץ README.md בשביל לעשות לו commit לאחר מכן ואז push כדי לבדוק שהאוטומציה עובדת.</div>
-2. <div dir="rtl">נעשה git init בשביל ליצור repo חדש</div>
-3. <div dir="rtl">נעשה git add לקובץ שיצרנו בשביל עדכן אותו בindex ואז נעשה לו commit</div>
-4. <div dir="rtl">(אפציונלי) נעשה git branch נראה שקוראים לmaster אז נשנה אותו לmain בשביל הנוחות</div>
-5. <div dir="rtl">נוסיף את הrepo המרוחק אחריו נרצה לעקוב אצלנו וגם את הbranch שלו (הקישור https זה הrepo וקראנו לו origin)</div>
-6. <div dir="rtl">נעשה push מהbranch שלנו שזה main אל הorigin , באופו דיפלטי זה יעשה את הpush לנף הראשי של הrepo במקרה הזה קוראים לו גם main (הדגל -u הוא לא מחייב אך מומלץ - הוא משמש בשביל לקבוע את הup stream שאיתו נעבוד בתור ברירת המחדל, כלומר לא נצטרך לציין את הremote או את הbranch כשנבצע פקודות git push או git pull)</div>
-7. <div dir="rtl">לאחר מכן נצטרך להכניס פרטי התחברות - שם המשתמש והסיסמה ( **הסיסמה היא לא סיסמת המשתמש הרגילה אלה ה Personal Authentication Token שלו ראה נספח א')**</div>
-8. <div dir="rtl">לאחר מכן נראה שהכל עבד וקרה הpush מעהנף main המקומי לענף main בrepo המרוחק שצויין.</div>
+<div dir="rtl">1. ניצור תקייה שבה נוכל לעשות , בחרתי לקרוא לה git_actons , נכנס אליה וניצור סתם קובץ README.md בשביל לעשות לו commit לאחר מכן ואז push כדי לבדוק שהאוטומציה עובדת.</div>
+<div dir="rtl">2. נעשה git init בשביל ליצור repo חדש</div>
+<div dir="rtl">3. נעשה git add לקובץ שיצרנו בשביל עדכן אותו בindex ואז נעשה לו commit</div>
+<div dir="rtl">4. (אפציונלי) נעשה git branch נראה שקוראים לmaster אז נשנה אותו לmain בשביל הנוחות</div>
+<div dir="rtl">5. נוסיף את הrepo המרוחק אחריו נרצה לעקוב אצלנו וגם את הbranch שלו (הקישור https זה הrepo וקראנו לו origin)</div>
+<div dir="rtl">6. נעשה push מהbranch שלנו שזה main אל הorigin , באופו דיפלטי זה יעשה את הpush לנף הראשי של הrepo במקרה הזה קוראים לו גם main (הדגל -u הוא לא מחייב אך מומלץ - הוא משמש בשביל לקבוע את הup stream שאיתו נעבוד בתור ברירת המחדל, כלומר לא נצטרך לציין את הremote או את הbranch כשנבצע פקודות git push או git pull)</div>
+<div dir="rtl">7. לאחר מכן נצטרך להכניס פרטי התחברות - שם המשתמש והסיסמה ( **הסיסמה היא לא סיסמת המשתמש הרגילה אלה ה Personal Authentication Token שלו ראה נספח א')**</div>
+<div dir="rtl">8. לאחר מכן נראה שהכל עבד וקרה הpush מעהנף main המקומי לענף main בrepo המרוחק שצויין.</div>
 
-* <div dir="rtl">נוכל לראות בשורה התחתונה שבגלל שציינו את הדגל -u הענף main עוקב אחרי הענף origin/main שזה הענף בrepo המרוחק</div>
+<div dir="rtl">* נוכל לראות בשורה התחתונה שבגלל שציינו את הדגל -u הענף main עוקב אחרי הענף origin/main שזה הענף בrepo המרוחק</div>
 
 ![תמונות](../Attachments/attachment_81.png)
 
 ### **GitHub Actions:**
 
-- <div dir="rtl">צור אוטומציה עם github actions שכל דחיפה לmain repo- הדפס הודעה פשוטה, למשל "hello i am here"</div>
-- <div dir="rtl">כעת הכינו כפתור לאוטומציה זו במקום שתחכה לpushים לmain repo</div>
-- <div dir="rtl">קבעו את האוטומציה שהיא תדפיס את ההודעה הזו כל פעם כשהשעה היא 10:00 בבוקר?</div>
-- <div dir="rtl">ממש את כלל המשימות במקביל , גם את הכפתור וגם את האוטומציות</div>
+<div dir="rtl">- צור אוטומציה עם github actions שכל דחיפה לmain repo- הדפס הודעה פשוטה, למשל "hello i am here"</div>
+<div dir="rtl">- כעת הכינו כפתור לאוטומציה זו במקום שתחכה לpushים לmain repo</div>
+<div dir="rtl">- קבעו את האוטומציה שהיא תדפיס את ההודעה הזו כל פעם כשהשעה היא 10:00 בבוקר?</div>
+<div dir="rtl">- ממש את כלל המשימות במקביל , גם את הכפתור וגם את האוטומציות</div>
 
 <div dir="rtl">אחרי שיצרנו repo מקומי שאליו נעשה את פעולות הpush שלנו , נוכל לכתוב הAction שתעשה את האוטומציות שרצינו יחד עם הכפתור להפעלה ידנית.</div>
 
@@ -153,10 +153,10 @@
 
 <div dir="rtl">בקובץ הזה ניתן לראות את שהגדרנו את הדברים הבאים:</div>
 
-- <div dir="rtl">תפעל כאשר קורה push בענף main</div>
-- <div dir="rtl">תפעל כאשר השעה היא 10 בבוקר</div>
-- <div dir="rtl">הגדרנו workflow_dispatch שזההכפתור שמאפשר לנו להפעיל את הAction ידנית</div>
-- <div dir="rtl">הגדרנו להדפיס "hello i am here" כשאשר משהו עושה trigger לAction הזה</div>
+<div dir="rtl">- תפעל כאשר קורה push בענף main</div>
+<div dir="rtl">- תפעל כאשר השעה היא 10 בבוקר</div>
+<div dir="rtl">- הגדרנו workflow_dispatch שזההכפתור שמאפשר לנו להפעיל את הAction ידנית</div>
+<div dir="rtl">- הגדרנו להדפיס "hello i am here" כשאשר משהו עושה trigger לAction הזה</div>
 
 ![תמונות](../Attachments/attachment_82.png)
 
@@ -166,9 +166,9 @@
 
 <div dir="rtl">הWebHook יתפוס את השינויים האלה:</div>
 
-- <div dir="rtl">שינויי חברות</div>
-- <div dir="rtl">שינויים בארגון</div>
-- <div dir="rtl">מאגרים משתנים</div>
+<div dir="rtl">- שינויי חברות</div>
+<div dir="rtl">- שינויים בארגון</div>
+<div dir="rtl">- מאגרים משתנים</div>
 
 <div dir="rtl">השתמש רק הגדרה יחידה של WebHook לשם כך.</div>
 
@@ -176,9 +176,9 @@
 
 <div dir="rtl">בשביל לבצע את המשימה הזו נצטרך את הדברים הבאים:</div>
 
-- <div dir="rtl">ליצור ארגון ולהגדיר עליו WebHook (כנראה שנצטרך להיות עליו ownerים)</div>
-- <div dir="rtl">שרת עם כתובת URL אליו יגיע כל הPOST Requests שהארגון ישלח על גבי שינויים שקורים</div>
-- <div dir="rtl">קוד פייתון שיאזין לכל POST Request שהארגון שלנו ישלח וידפיס\ישמור אותם כקבצי json</div>
+<div dir="rtl">- ליצור ארגון ולהגדיר עליו WebHook (כנראה שנצטרך להיות עליו ownerים)</div>
+<div dir="rtl">- שרת עם כתובת URL אליו יגיע כל הPOST Requests שהארגון ישלח על גבי שינויים שקורים</div>
+<div dir="rtl">- קוד פייתון שיאזין לכל POST Request שהארגון שלנו ישלח וידפיס\ישמור אותם כקבצי json</div>
 
 <div dir="rtl">**בשביל ליצור ארגון ראה נספח ג'**</div>
 
@@ -188,18 +188,18 @@
 
 ![תמונות](../Attachments/attachment_83.png)
 
-- <div dir="rtl">נקנפג את הtoken שקיבלנו אחרי שנרשמנו לngrok</div>
-- <div dir="rtl">ניצור תיקייה שעליה נעבוד והיא תיהיה בתור השרת שלנו</div>
-- <div dir="rtl">נכנס אליה וניצור קובץ python חדש</div>
+<div dir="rtl">- נקנפג את הtoken שקיבלנו אחרי שנרשמנו לngrok</div>
+<div dir="rtl">- ניצור תיקייה שעליה נעבוד והיא תיהיה בתור השרת שלנו</div>
+<div dir="rtl">- נכנס אליה וניצור קובץ python חדש</div>
 
 ![תמונות](../Attachments/attachment_84.png)
 
-- <div dir="rtl">בתוך הקובץ python נכתוב את הקוד הבא (זה הקוד שאני השתמשתי בו ניתן לעשות זאת בעוד דרכים וצורות שונות)</div>
+<div dir="rtl">- בתוך הקובץ python נכתוב את הקוד הבא (זה הקוד שאני השתמשתי בו ניתן לעשות זאת בעוד דרכים וצורות שונות)</div>
 
 ![תמונות](../Attachments/attachment_85.png)
 
-- <div dir="rtl">נשמור את הקובץ</div>
-- <div dir="rtl">נריץ את הקובץ ונקים את השרת בטרמינלים (נריץ את אחד מהם בbackground כדי שנוכל להריץ גם את השני ולראות)</div>
+<div dir="rtl">- נשמור את הקובץ</div>
+<div dir="rtl">- נריץ את הקובץ ונקים את השרת בטרמינלים (נריץ את אחד מהם בbackground כדי שנוכל להריץ גם את השני ולראות)</div>
 
 ![תמונות](../Attachments/attachment_86.png)
 
@@ -233,47 +233,47 @@ gh repo list [organization-name]
 
 <div dir="rtl">בשביל ליצור Personal Authentication Token נכנס לאתר של GitHub ([www.github.com](https://www.github.com))</div>
 
-1. <div dir="rtl">נלחץ על התמונת פרופיל שלנו צד ימין למעלה</div>
+<div dir="rtl">1. נלחץ על התמונת פרופיל שלנו צד ימין למעלה</div>
 
 ![תמונות](../Attachments/attachment_91.png)
 
-1. <div dir="rtl">לאחר מכן נלחץ על כפתור הsettings</div>
+<div dir="rtl">1. לאחר מכן נלחץ על כפתור הsettings</div>
 
 ![תמונות](../Attachments/attachment_92.png)
 
-1. <div dir="rtl">נלחץ על Developer Settings</div>
+<div dir="rtl">1. נלחץ על Developer Settings</div>
 
 ![תמונות](../Attachments/attachment_93.png)
 
-1. <div dir="rtl">נבחר ב Personal access tokens ואז נלחץ על Tokens(classic) נלחץ על הכפתור Generate new token ואז "Generate new token(classic)"</div>
+<div dir="rtl">1. נבחר ב Personal access tokens ואז נלחץ על Tokens(classic) נלחץ על הכפתור Generate new token ואז "Generate new token(classic)"</div>
 
 ![תמונות](../Attachments/attachment_94.png)
 
-1. <div dir="rtl">נוכל לשים Note לtoken הזה שנזכור משהו ולבחור לה תוקף , בנוסף נבחר איזה הרשאות יש לtoken הזה</div>
+<div dir="rtl">1. נוכל לשים Note לtoken הזה שנזכור משהו ולבחור לה תוקף , בנוסף נבחר איזה הרשאות יש לtoken הזה</div>
 
 ![תמונות](../Attachments/attachment_95.png)
 
-1. <div dir="rtl">נוכל לראות את הtoken שיצרנו</div>
+<div dir="rtl">1. נוכל לראות את הtoken שיצרנו</div>
 
 ![תמונות](../Attachments/attachment_96.png)
 
 #### <div dir="rtl">**נספח ב' - יצירת Action בGitHub:**</div>
 
-1. <div dir="rtl">נכנס לGitHub ובrepo שלנו נלך לtool bar העליון ונלחץ על Actions![תמונות](../Attachments/attachment_97.png)</div>
-2. <div dir="rtl">נוכל לבחור להקים Action משלנו או לקבל אחד עם המבנה המינימלי שאותו נצטרך , לפי הצורך שלנו נבחר במה להשתמש (בנוסף ניתן לבחור עוד המון סוגים של Actions שמופיעים באותו העמוד)</div>
+<div dir="rtl">1. נכנס לGitHub ובrepo שלנו נלך לtool bar העליון ונלחץ על Actions![תמונות](../Attachments/attachment_97.png)</div>
+<div dir="rtl">2. נוכל לבחור להקים Action משלנו או לקבל אחד עם המבנה המינימלי שאותו נצטרך , לפי הצורך שלנו נבחר במה להשתמש (בנוסף ניתן לבחור עוד המון סוגים של Actions שמופיעים באותו העמוד)</div>
 
 ![תמונות](../Attachments/attachment_98.png)
 
-1. <div dir="rtl">במידה ובחרנו ליצור בעצמנו נקבל קובץ yml ריק איתו נעבוד , במידה ונלחץ על כפתור הConfigure נגיע לדף הבא עם הקובץ yml הזה</div>
+<div dir="rtl">1. במידה ובחרנו ליצור בעצמנו נקבל קובץ yml ריק איתו נעבוד , במידה ונלחץ על כפתור הConfigure נגיע לדף הבא עם הקובץ yml הזה</div>
 
 ![תמונות](../Attachments/attachment_99.png)
 
-1. <div dir="rtl">כאן נוכל לשנות את התוכן של הקובץ לפי הAction שנרצה ליצור , נוכל לשנות את השם של הקובץ yml כרצוננו , ניתן גם לראות את הנתיב בו הוא ישמר , כשנסיים נלחץ על הכפתור הירוק בצד ימין למעלה שרשום עליו - Commit changes...</div>
-2. <div dir="rtl">כשנלחץ על הכפתור נראה את החלון הבא</div>
+<div dir="rtl">1. כאן נוכל לשנות את התוכן של הקובץ לפי הAction שנרצה ליצור , נוכל לשנות את השם של הקובץ yml כרצוננו , ניתן גם לראות את הנתיב בו הוא ישמר , כשנסיים נלחץ על הכפתור הירוק בצד ימין למעלה שרשום עליו - Commit changes...</div>
+<div dir="rtl">2. כשנלחץ על הכפתור נראה את החלון הבא</div>
 
 ![תמונות](../Attachments/attachment_100.png)
 
-1. <div dir="rtl">נוכל לשנות את השם של ההודעה עבור יצירת הAction הזה ולהוסיף תיאור כרצוננו , בסיום נלחץ שוב על הירוק בצד ימין למטה שרשום עליו - Commit changes</div>
+<div dir="rtl">1. נוכל לשנות את השם של ההודעה עבור יצירת הAction הזה ולהוסיף תיאור כרצוננו , בסיום נלחץ שוב על הירוק בצד ימין למטה שרשום עליו - Commit changes</div>
 
 <div dir="rtl">נוכל לראות שהקובץ נוצר כאשר נלחץ שוב על כפתור הActions בtool bar ונראה את הAction שייצרנו , השם שרשמנו בתוך הקובץ כשם הקובץ יופיע כשם של הworkflow בצד שמאל.</div>
 
@@ -285,9 +285,9 @@ gh repo list [organization-name]
 
 <div dir="rtl">נעשה זאת בצורה הבאה:</div>
 
-- <div dir="rtl">נכנס לאתר של GitHub ([www.github.com](https://www.github.com))</div>
-- <div dir="rtl">נלחץ על התמונת פרופיל שלנו צד ימין למעלה</div>
-- <div dir="rtl">נלחץ הsettings</div>
-- <div dir="rtl">לאחר מכן בחלק של ה"Access" נלחץ על Organizations</div>
-- <div dir="rtl">נלחץ על New organization</div>
-- <div dir="rtl">נעקוב אחרי ההוראות בחלון שמופיע</div>
+<div dir="rtl">- נכנס לאתר של GitHub ([www.github.com](https://www.github.com))</div>
+<div dir="rtl">- נלחץ על התמונת פרופיל שלנו צד ימין למעלה</div>
+<div dir="rtl">- נלחץ הsettings</div>
+<div dir="rtl">- לאחר מכן בחלק של ה"Access" נלחץ על Organizations</div>
+<div dir="rtl">- נלחץ על New organization</div>
+<div dir="rtl">- נעקוב אחרי ההוראות בחלון שמופיע</div>

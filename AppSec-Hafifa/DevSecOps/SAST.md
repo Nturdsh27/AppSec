@@ -25,7 +25,7 @@
 
 ## **Mission - Usage of SAST Tools**
 
-- <div dir="rtl">השתמש בכלי SAST ונתח את התוצאות</div>
+<div dir="rtl">- השתמש בכלי SAST ונתח את התוצאות</div>
 
 ![תמונות](../Attachments/attachment_103.png)
 

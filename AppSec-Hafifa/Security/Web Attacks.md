@@ -5,67 +5,67 @@
 ### **Top 10 OWASP**
 
 1. Broken Access Control
-    1. <div dir="rtl">![תמונות](../Attachments/attachment_127.png)</div>
-    2. <div dir="rtl">![תמונות](../Attachments/attachment_128.png)</div>
+    <div dir="rtl">1. ![תמונות](../Attachments/attachment_127.png)</div>
+    <div dir="rtl">2. ![תמונות](../Attachments/attachment_128.png)</div>
 2. Cryptographic Failures
-    1. <div dir="rtl">![תמונות](../Attachments/attachment_129.png)</div>
-    2. <div dir="rtl">![תמונות](../Attachments/attachment_130.png)</div>
-    3. <div dir="rtl">![תמונות](../Attachments/attachment_131.png)</div>
-    4. <div dir="rtl">![תמונות](../Attachments/attachment_132.png)</div>
-    5. <div dir="rtl">![תמונות](../Attachments/attachment_133.png)</div>
-    6. <div dir="rtl">![תמונות](../Attachments/attachment_134.png)</div>
-    7. <div dir="rtl">![תמונות](../Attachments/attachment_135.png)</div>
+    <div dir="rtl">1. ![תמונות](../Attachments/attachment_129.png)</div>
+    <div dir="rtl">2. ![תמונות](../Attachments/attachment_130.png)</div>
+    <div dir="rtl">3. ![תמונות](../Attachments/attachment_131.png)</div>
+    <div dir="rtl">4. ![תמונות](../Attachments/attachment_132.png)</div>
+    <div dir="rtl">5. ![תמונות](../Attachments/attachment_133.png)</div>
+    <div dir="rtl">6. ![תמונות](../Attachments/attachment_134.png)</div>
+    <div dir="rtl">7. ![תמונות](../Attachments/attachment_135.png)</div>
 3. Injection
     1. Command Injection
-        1. <div dir="rtl">![תמונות](../Attachments/attachment_136.png)</div>
-        2. <div dir="rtl">![תמונות](../Attachments/attachment_137.png)</div>
-        3. <div dir="rtl">![תמונות](../Attachments/attachment_138.png)</div>
-        4. <div dir="rtl">![תמונות](../Attachments/attachment_139.png)</div>
-        5. <div dir="rtl">![תמונות](../Attachments/attachment_140.png)</div>
+        <div dir="rtl">1. ![תמונות](../Attachments/attachment_136.png)</div>
+        <div dir="rtl">2. ![תמונות](../Attachments/attachment_137.png)</div>
+        <div dir="rtl">3. ![תמונות](../Attachments/attachment_138.png)</div>
+        <div dir="rtl">4. ![תמונות](../Attachments/attachment_139.png)</div>
+        <div dir="rtl">5. ![תמונות](../Attachments/attachment_140.png)</div>
 4. Insecure Design
-    1. <div dir="rtl">![תמונות](../Attachments/attachment_141.png)</div>
-    2. <div dir="rtl">![תמונות](../Attachments/attachment_142.png)</div>
-    3. <div dir="rtl">![תמונות](../Attachments/attachment_143.png)</div>
-    4. <div dir="rtl">![תמונות](../Attachments/attachment_144.png)</div>
-    5. <div dir="rtl">![תמונות](../Attachments/attachment_145.png)</div>
-    6. <div dir="rtl">![תמונות](../Attachments/attachment_146.png)</div>
-    7. <div dir="rtl">![תמונות](../Attachments/attachment_147.png)</div>
-    8. <div dir="rtl">![תמונות](../Attachments/attachment_148.png)</div>
+    <div dir="rtl">1. ![תמונות](../Attachments/attachment_141.png)</div>
+    <div dir="rtl">2. ![תמונות](../Attachments/attachment_142.png)</div>
+    <div dir="rtl">3. ![תמונות](../Attachments/attachment_143.png)</div>
+    <div dir="rtl">4. ![תמונות](../Attachments/attachment_144.png)</div>
+    <div dir="rtl">5. ![תמונות](../Attachments/attachment_145.png)</div>
+    <div dir="rtl">6. ![תמונות](../Attachments/attachment_146.png)</div>
+    <div dir="rtl">7. ![תמונות](../Attachments/attachment_147.png)</div>
+    <div dir="rtl">8. ![תמונות](../Attachments/attachment_148.png)</div>
 5. Security Misconfiguration
-    1. <div dir="rtl">![תמונות](../Attachments/attachment_149.png)</div>
-    2. <div dir="rtl">![תמונות](../Attachments/attachment_150.png)</div>
+    <div dir="rtl">1. ![תמונות](../Attachments/attachment_149.png)</div>
+    <div dir="rtl">2. ![תמונות](../Attachments/attachment_150.png)</div>
 6. Vulnerable and Outdated Components
-    1. <div dir="rtl">![תמונות](../Attachments/attachment_151.png)</div>
+    <div dir="rtl">1. ![תמונות](../Attachments/attachment_151.png)</div>
     2. [https://www.exploit-db.com/exploits/47887](https://www.exploit-db.com/exploits/47887)
-    3. <div dir="rtl">![תמונות](../Attachments/attachment_152.png)</div>
-    4. <div dir="rtl">![תמונות](../Attachments/attachment_153.png)</div>
+    <div dir="rtl">3. ![תמונות](../Attachments/attachment_152.png)</div>
+    <div dir="rtl">4. ![תמונות](../Attachments/attachment_153.png)</div>
 7. Identification and Authentication Failures
-    1. <div dir="rtl">![תמונות](../Attachments/attachment_154.png)</div>
-    2. <div dir="rtl">![תמונות](../Attachments/attachment_155.png)</div>
-    3. <div dir="rtl">![תמונות](../Attachments/attachment_156.png)</div>
-    4. <div dir="rtl">![תמונות](../Attachments/attachment_157.png)</div>
-    5. <div dir="rtl">![תמונות](../Attachments/attachment_158.png)</div>
-    6. <div dir="rtl">![תמונות](../Attachments/attachment_159.png)</div>
+    <div dir="rtl">1. ![תמונות](../Attachments/attachment_154.png)</div>
+    <div dir="rtl">2. ![תמונות](../Attachments/attachment_155.png)</div>
+    <div dir="rtl">3. ![תמונות](../Attachments/attachment_156.png)</div>
+    <div dir="rtl">4. ![תמונות](../Attachments/attachment_157.png)</div>
+    <div dir="rtl">5. ![תמונות](../Attachments/attachment_158.png)</div>
+    <div dir="rtl">6. ![תמונות](../Attachments/attachment_159.png)</div>
 8. Software and Data Integrity Failures
-    1. <div dir="rtl">![תמונות](../Attachments/attachment_160.png)</div>
-    2. <div dir="rtl">![תמונות](../Attachments/attachment_161.png)</div>
-    3. <div dir="rtl">![תמונות](../Attachments/attachment_162.png)</div>
-    4. <div dir="rtl">![תמונות](../Attachments/attachment_163.png)</div>
-    5. <div dir="rtl">![תמונות](../Attachments/attachment_164.png)</div>
-    6. <div dir="rtl">![תמונות](../Attachments/attachment_165.png)</div>
-    7. <div dir="rtl">![תמונות](../Attachments/attachment_166.png)</div>
+    <div dir="rtl">1. ![תמונות](../Attachments/attachment_160.png)</div>
+    <div dir="rtl">2. ![תמונות](../Attachments/attachment_161.png)</div>
+    <div dir="rtl">3. ![תמונות](../Attachments/attachment_162.png)</div>
+    <div dir="rtl">4. ![תמונות](../Attachments/attachment_163.png)</div>
+    <div dir="rtl">5. ![תמונות](../Attachments/attachment_164.png)</div>
+    <div dir="rtl">6. ![תמונות](../Attachments/attachment_165.png)</div>
+    <div dir="rtl">7. ![תמונות](../Attachments/attachment_166.png)</div>
 9. Security Logging & Monitoring Failures
-    1. <div dir="rtl">![תמונות](../Attachments/attachment_167.png)</div>
+    <div dir="rtl">1. ![תמונות](../Attachments/attachment_167.png)</div>
 10. Server-Side Request Forgery (SSRF)
-    1. <div dir="rtl">![תמונות](../Attachments/attachment_168.png)</div>
-    2. <div dir="rtl">![תמונות](../Attachments/attachment_169.png)</div>
-    3. <div dir="rtl">![תמונות](../Attachments/attachment_170.png)</div>
-    4. <div dir="rtl">![תמונות](../Attachments/attachment_171.png)</div>
-    5. <div dir="rtl">![תמונות](../Attachments/attachment_172.png)</div>
-    6. <div dir="rtl">![תמונות](../Attachments/attachment_173.png)</div>
-    7. <div dir="rtl">![תמונות](../Attachments/attachment_174.png)</div>
-    8. <div dir="rtl">![תמונות](../Attachments/attachment_175.png)</div>
-    9. <div dir="rtl">![תמונות](../Attachments/attachment_176.png)</div>
+    <div dir="rtl">1. ![תמונות](../Attachments/attachment_168.png)</div>
+    <div dir="rtl">2. ![תמונות](../Attachments/attachment_169.png)</div>
+    <div dir="rtl">3. ![תמונות](../Attachments/attachment_170.png)</div>
+    <div dir="rtl">4. ![תמונות](../Attachments/attachment_171.png)</div>
+    <div dir="rtl">5. ![תמונות](../Attachments/attachment_172.png)</div>
+    <div dir="rtl">6. ![תמונות](../Attachments/attachment_173.png)</div>
+    <div dir="rtl">7. ![תמונות](../Attachments/attachment_174.png)</div>
+    <div dir="rtl">8. ![תמונות](../Attachments/attachment_175.png)</div>
+    <div dir="rtl">9. ![תמונות](../Attachments/attachment_176.png)</div>
 
 <div dir="rtl">הסברים מלאים + תרגול נמצאים באתר של TryHackMe בחינם באחת מהכתובות האלו:</div>
 
@@ -105,9 +105,9 @@
 
 <div dir="rtl">ישנם כמה סוגים של SQLi:</div>
 
-- <div dir="rtl">in-band SQLi - תוקף משתמש באותו נתיב תקשורתי בשביל לבצע את המתקפה ובשביל להשיג את המידע , תתי החלוקה של סוג המתקפה הזאת הם Error-based בה התוקף גורם לשרת להחזיר הודעות שגיאה ובכך להצליח להסיק ולהשיג מידע על השרת , Union-based בה התוקף מנסה להשיג מידע בעזרת השימוש בUNION.</div>
-- <div dir="rtl">inferential (Blind) SQLi - מתקפה בה התוקף שולח שאילתות לשרת ולא רואה תגובה באופן רגיל כמו בin-band ,התוקף שולח payload לשרת ומתבונן בצורה שבה הוא מגיב ובהתנהגות שלו בשביל ללמוד ולהסיק מידע על המבנה שלו ודרך הפעולה שלו , ניתן לסווג את המתקפה הזאת לשני סוגים , Boolean בהנבדק אם חוזרת תשובה מהשרת או לא כתלות במשתנה הבוליאני שהתוקף בחר (אמת או שקר) , Time-based בה התוקף גורם לשרת לחכות לפני שהוא מגיב ובכך רואה כמה זמן לוקח לו לבצע פעולות (שיטה זאת יכולה לשמש בשביל מתקפות DOS)</div>
-- <div dir="rtl">Out-of-band SQLi - שיטה שמתקיימת רק בתנאים מסויימים , משתמשים בה כאשר לא ניתן לבצע את המתקפה בצורת in-band , תוקף גורם לשרת להחזיר את המידע שהוא מנסה להשיג לעמדה מרוחקת ולא דרך ערוץ התקשורת הרגיל שלה עם האפליקציה , בשביל לאפשר מתקפה מסוג זה צריך שהשרת יוכל לבצע בקשות DNS או HTTPS.</div>
+<div dir="rtl">- in-band SQLi - תוקף משתמש באותו נתיב תקשורתי בשביל לבצע את המתקפה ובשביל להשיג את המידע , תתי החלוקה של סוג המתקפה הזאת הם Error-based בה התוקף גורם לשרת להחזיר הודעות שגיאה ובכך להצליח להסיק ולהשיג מידע על השרת , Union-based בה התוקף מנסה להשיג מידע בעזרת השימוש בUNION.</div>
+<div dir="rtl">- inferential (Blind) SQLi - מתקפה בה התוקף שולח שאילתות לשרת ולא רואה תגובה באופן רגיל כמו בin-band ,התוקף שולח payload לשרת ומתבונן בצורה שבה הוא מגיב ובהתנהגות שלו בשביל ללמוד ולהסיק מידע על המבנה שלו ודרך הפעולה שלו , ניתן לסווג את המתקפה הזאת לשני סוגים , Boolean בהנבדק אם חוזרת תשובה מהשרת או לא כתלות במשתנה הבוליאני שהתוקף בחר (אמת או שקר) , Time-based בה התוקף גורם לשרת לחכות לפני שהוא מגיב ובכך רואה כמה זמן לוקח לו לבצע פעולות (שיטה זאת יכולה לשמש בשביל מתקפות DOS)</div>
+<div dir="rtl">- Out-of-band SQLi - שיטה שמתקיימת רק בתנאים מסויימים , משתמשים בה כאשר לא ניתן לבצע את המתקפה בצורת in-band , תוקף גורם לשרת להחזיר את המידע שהוא מנסה להשיג לעמדה מרוחקת ולא דרך ערוץ התקשורת הרגיל שלה עם האפליקציה , בשביל לאפשר מתקפה מסוג זה צריך שהשרת יוכל לבצע בקשות DNS או HTTPS.</div>
 
 <div dir="rtl">מתקפות SQLi קורות לרוב בגלל שמשתמשים בנתונים ה"raw" שמשתמש מזין במקום בפרמטרים או אם מתירים שימוש בתווים שעלולים להיות מסוכנים ולהתפרש כחלק משאילתת SQL , לכן כדי להמנע ממתקפות SQLi חשוב לא להשתמש בנתונים שהמשתמש מזין אלה בפרמטרים במהלך שימוש בשאילתות , בנוסף איסור שימוש בתווים שעלולים להתפרש כחלק מתויים השייכים לשאילתות SQL.</div>
 
@@ -119,19 +119,19 @@
 
 <div dir="rtl">בכדי שיתממשו מתקפות XSS בצורה מוצלחת צריכים להתקיים 2 תנאים על ידי האתר:</div>
 
-- <div dir="rtl">האתר מקבל קלט שעלול להיות מעוצב על ידי תוקף , כך תוקף יכול להחדיר קלט שהוא רוצה במקום קלט לגיטימי.</div>
-- <div dir="rtl">האתר יכליל את הקלט בתוך עמוד כלשהו מבלי לסנן אותו קודם , כלומר מבלי לוודא שקלט הזה לא יכול להיות מורץ על ידי JS (JavaScript).</div>
+<div dir="rtl">- האתר מקבל קלט שעלול להיות מעוצב על ידי תוקף , כך תוקף יכול להחדיר קלט שהוא רוצה במקום קלט לגיטימי.</div>
+<div dir="rtl">- האתר יכליל את הקלט בתוך עמוד כלשהו מבלי לסנן אותו קודם , כלומר מבלי לוודא שקלט הזה לא יכול להיות מורץ על ידי JS (JavaScript).</div>
 
 <div dir="rtl">ישנם 2 סוגים עיקריים של מתקפות XSS:</div>
 
-- <div dir="rtl">Reflected - תוקף גורם מחדיר לURL ספציפי קוד זדוני באופן מוטמע , לאחר שמטמיע את הקוד בURL הוא גורם לקורבן להריץ את הURL (למשל ללחוץ עליו) , בכך האפליקציה הפגיעה משתמשת בpayload הזדוני בתגובה שלה לדפדפן של המשתמש מבלי לשמור אותו על השרת.</div>
-- <div dir="rtl">Stored - תוקף מצילח להזריק דרך הweb app קוד זדוני אשר נשמר על השרת (כמו paylaod לDB או קובץ כלשהו על השרת וכו') , הקובץ נשמר ללא הרצה שלו , בכך המתקפה פועלת כאשר משתמש (קורבן) טועםן את הדף שמריץ את הקוד , בכך ניתן לפגוע בכמות מרובה של משתמשים.</div>
-- <div dir="rtl">DOM-based - מתקפות אלו הן מתקפות שקורות רק בצד הלקוח , כל הקוד הזדוני שמוזרק מתרחש רק בצד של הלקוח בלי אף תקשורת עם צד השרת , הוא מתבצע על ידי מניפולציה של DOM (Documented Object Model) של עמוד באתר.</div>
+<div dir="rtl">- Reflected - תוקף גורם מחדיר לURL ספציפי קוד זדוני באופן מוטמע , לאחר שמטמיע את הקוד בURL הוא גורם לקורבן להריץ את הURL (למשל ללחוץ עליו) , בכך האפליקציה הפגיעה משתמשת בpayload הזדוני בתגובה שלה לדפדפן של המשתמש מבלי לשמור אותו על השרת.</div>
+<div dir="rtl">- Stored - תוקף מצילח להזריק דרך הweb app קוד זדוני אשר נשמר על השרת (כמו paylaod לDB או קובץ כלשהו על השרת וכו') , הקובץ נשמר ללא הרצה שלו , בכך המתקפה פועלת כאשר משתמש (קורבן) טועםן את הדף שמריץ את הקוד , בכך ניתן לפגוע בכמות מרובה של משתמשים.</div>
+<div dir="rtl">- DOM-based - מתקפות אלו הן מתקפות שקורות רק בצד הלקוח , כל הקוד הזדוני שמוזרק מתרחש רק בצד של הלקוח בלי אף תקשורת עם צד השרת , הוא מתבצע על ידי מניפולציה של DOM (Documented Object Model) של עמוד באתר.</div>
 
 <div dir="rtl">כדי להגן ממתקפות XSS חשוב לסנן את המידע שמגיע מהדפדפן לשרת , חשוב לבדוק שהתוכן שמתקבל אינו תוכן שניתן להרצה , ניתן לעשות זאת על ידי פונקציות ו-APIים שונים, בנוסף שימוש בCSP (CONTENT SECURITY POLICY) שהם מדיניות שמגדירות לדפדפן מה משאבי הJS או הCSS בהם הוא משתמש ובכך להגביל אותו שהוא יוכל להריץ רק אותם , סינון אפשרי נןוסף הוא המרת תווים שעלולים להיחשב כתווי HTML לקוד שמסמל אותם , למשל: `">"` מומר ל-</div>
 `"&gt;"`.
 
-* <div dir="rtl">הגדרה שעוזרת להגן ממתקפות XSS היא חסימת שימוש בHTTP Trace שבעזרת ניתן לגנוב cookie של משתמשים</div>
+<div dir="rtl">* הגדרה שעוזרת להגן ממתקפות XSS היא חסימת שימוש בHTTP Trace שבעזרת ניתן לגנוב cookie של משתמשים</div>
 
 ### **CSRF**
 
@@ -139,14 +139,14 @@
 
 <div dir="rtl">מתקפות CSRF יכולות להוביל להשלחות רבות , בדרך כלל מתקפות אלו משתמשות ב2 ערוצים אותם הם מנצלות בשביל לבצע את המתקפה:</div>
 
-- <div dir="rtl">האמון בין אתרי הweb או האפליקציות לבין הדפדפנים של המשתמשים - לעיתים האפליקציה תנהל את הsessionים תוך שימוש בID של משתמש הידועים לדפדפן ולא מעבר , כך תוקף יכול גם לראות את הID ולנצל את זה.</div>
-- <div dir="rtl">Same-origin policy and cross-origin resource sharing loopholes - תוקפים המוצאים חורים שניתן לנצל במנגנון הSOP או הCORS ובכך לגרום לאתרים לתקשר עם אתרים אחרים , בכך למשל לגרום לאתר לתקשר עם אתר זדוני אחר.</div>
+<div dir="rtl">- האמון בין אתרי הweb או האפליקציות לבין הדפדפנים של המשתמשים - לעיתים האפליקציה תנהל את הsessionים תוך שימוש בID של משתמש הידועים לדפדפן ולא מעבר , כך תוקף יכול גם לראות את הID ולנצל את זה.</div>
+<div dir="rtl">- Same-origin policy and cross-origin resource sharing loopholes - תוקפים המוצאים חורים שניתן לנצל במנגנון הSOP או הCORS ובכך לגרום לאתרים לתקשר עם אתרים אחרים , בכך למשל לגרום לאתר לתקשר עם אתר זדוני אחר.</div>
 
 <div dir="rtl">ישנם 3 שלבי עבודה כלליים למתקפות CSRF:</div>
 
-1. <div dir="rtl">תוקפף יוצר URL או סקריפט בעזרתו הוא מנצל את החולשה.</div>
-2. <div dir="rtl">התוקף משתמש בsocial engineering בשביל לגרום למשתמש ללחוץ על הURL או להריץ את הscript.</div>
-3. <div dir="rtl">משתמש אשר מחובר כבר לאתר שולח (בעל כורחו) הודעת HTTP זדוני והמתקפה הצליחה (לא ניתן לעלות על המתקפה , אלה רק אחרי שהיא כבר צלחה)</div>
+<div dir="rtl">1. תוקפף יוצר URL או סקריפט בעזרתו הוא מנצל את החולשה.</div>
+<div dir="rtl">2. התוקף משתמש בsocial engineering בשביל לגרום למשתמש ללחוץ על הURL או להריץ את הscript.</div>
+<div dir="rtl">3. משתמש אשר מחובר כבר לאתר שולח (בעל כורחו) הודעת HTTP זדוני והמתקפה הצליחה (לא ניתן לעלות על המתקפה , אלה רק אחרי שהיא כבר צלחה)</div>
 
 <div dir="rtl">בכדי להצליח למזער ולגלות מתקפות CSRF נרצה לעשות שימוש בכלי בדיקות אבטחה אשר בודקים את האבטחה של אתרים ואפליקציות web בצד הלקוח ובצד השרת , לבדוק בעזרתם את ניהול הsessions של האפליקציות והאתרים שלא יהיו תלויים בצד הלקוח או בcookies של הדפדפן , בנוסף נרצה לסרוק עבור בקשות Ajax ונקודות קצה API לא מאובטחות , לשים לב שאף מידע כמו tokenים או מידע אחר שיכול לשמש למתקפות CSRF לא נכלל באתר , באפליקציה , בURLים וכו' , דבר נוסף שיכול להועיל הוא שימוש בסורקי קוד שעשויים לגלות חולשות היכולות לשמש למתקפות CSRF כבר בקוד.</div>
 
@@ -160,10 +160,10 @@
 
 <div dir="rtl">תהליך ניצול מטווה מתקפה של SSRF יקרה בדרך כלל בשלבים הבאים:</div>
 
-1. <div dir="rtl">זיהוי נקודה חולשתית אצל השרת - התוקף ימצא פונקציה באפליקציה ההמאפשרת לו לשלוח בקשות HTTP או URL כלשהו מצד הלקוח.</div>
-2. <div dir="rtl">יצירת הpayload הזדוני - התוקף יצור בהתאם paylaod זדוני כלשהו הכולל את הURL שהוא רוצה לנתב אליו.</div>
-3. <div dir="rtl">עיבוד הpayload בצד שרת - השרת יעבוד את הpayload ויבצע בקשה אל היעד שנבחר באופן זדוני על ידי התוקף.</div>
-4. <div dir="rtl">הצלחת המתקפה - השרת יפנה אל היעד הנבחר יאחזר ממנו את המידע שהתוקף רצה ויחזיר אותו לתוקף ,בכך ידליף מידע או יאפשר גישות לא רצויות לתוקף.</div>
+<div dir="rtl">1. זיהוי נקודה חולשתית אצל השרת - התוקף ימצא פונקציה באפליקציה ההמאפשרת לו לשלוח בקשות HTTP או URL כלשהו מצד הלקוח.</div>
+<div dir="rtl">2. יצירת הpayload הזדוני - התוקף יצור בהתאם paylaod זדוני כלשהו הכולל את הURL שהוא רוצה לנתב אליו.</div>
+<div dir="rtl">3. עיבוד הpayload בצד שרת - השרת יעבוד את הpayload ויבצע בקשה אל היעד שנבחר באופן זדוני על ידי התוקף.</div>
+<div dir="rtl">4. הצלחת המתקפה - השרת יפנה אל היעד הנבחר יאחזר ממנו את המידע שהתוקף רצה ויחזיר אותו לתוקף ,בכך ידליף מידע או יאפשר גישות לא רצויות לתוקף.</div>
 
 <div dir="rtl">כדי להגן ממתקפות המנצלות את וקטור התקיפה של SSRF נרצה לוודא ולסנן את כל הקלטים המתקבלים על ידי המשתמש באופן קפדני ומדוייק , בכך לאפשר רק לURL ספציפים להתקיים , נרצה גם להשתמש בwhitelist עבור סינון כתובות הURL שלשרת מותר לפנות אליהם , נרצה לממש עקרונות הפרדה ובידול ,בכך נבודד רכיבים אשר לא אמורים לתקשר אחד עם השני ברשתות שונות כך לא יוכלו לגשת אחד לשני , נשתמש בACLים וFWים , מימושים אבטחתיים נוספים כמו שימוש בheaderים ופרוטוקולים מאובטחים כמו אכיפת שימוש בCSP ובפרוטקול HTTPS. פעולות נוספות שיכולות למזער את המתקפות הם בידקות מחזוריות של האפליקציה , נתיעוד וניטור תקשורתי ומימוש עקרונות POLP.</div>
 
